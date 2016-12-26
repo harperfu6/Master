@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces ストロークの形状と書き順は同じであるが，大きさ (e), 向き (a) (b) (d), 位置 (c) が異なる，単一ストロークからなる手書きジェスチャの例}}{3}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \$1において用いられる，一般的にスマートフォンやタブレット端末などのタッチパネルへの手書き入力やペン入力において良く用いられる，単一ストロークからなる手書きジェスチャの例}}{10}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 調査において6人の被験者\nobreakspace {}(P1～P6)から得られた，用いたい手書きジェスチャの一覧}}{12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Each step in the \$1 algorithm process}}{16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例}}{20}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces An Example of how to decide a similarity ($Sts$, $Sto$, $Stp$) of tempaltes in a group gesture, in this case (0.8, 0.1, 0.4) is the similarities.}}{22}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The procedure to decide the optimal weight values }}{22}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The procedure to decide non optimal weight values}}{23}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces The result of the experiment to find the optimal weight values, and blue lines indicates power approximation curves.}}{23}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

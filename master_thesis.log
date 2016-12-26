@@ -1,0 +1,312 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  26 DEC 2016 19:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**master_thesis
+(./master_thesis.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/01/01> patch level 0)
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/jreport.cls
+Document Class: jreport 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 677.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count91
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+\epsfxsize=\dimen123
+\epsfysize=\dimen124
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 142.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (./macro.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(./sie-jp-euc.sty
+\vspacetitle=\dimen125
+\vspaceabstract=\dimen126
+) (./master_thesis.aux)
+\openout1 = `master_thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+ (I search kanjifont definition file:
+. . ) (I search font definition file: . . . . . . . )
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 65.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 66.
+
+Overfull \hbox (10.53625pt too wide) in paragraph at lines 66--66
+[]$[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 66
+ []
+
+[-1
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 78.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 78.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+ (./00_abstract.tex) [0]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 90.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 90.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 90.
+ (./master_thesis.toc [1
+
+])
+\tf@toc=\write3
+\openout3 = `master_thesis.toc'.
+
+ [2] (./master_thesis.lof)
+\tf@lof=\write4
+\openout4 = `master_thesis.lof'.
+
+ [3
+
+] (./01_introduction.tex
+第 1 章
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+[1
+
+]
+File: img/examples_V.eps Graphic file (type eps)
+ <img/examples_V.eps> [2] [3]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 43.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+)
+(./02_relatedworks.tex [4]
+第 2 章
+[5
+
+] [6] [7]) (./03_elicitation.tex [8]
+第 3 章
+File: img/stroke_1.eps Graphic file (type eps)
+<img/stroke_1.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9
+
+] [10]
+File: img/elicetated_strokes.eps Graphic file (type eps)
+ <img/elicetated_strokes.eps>
+
+LaTeX Warning: Float too large for page by 1.3249pt on input line 62.
+
+) (./04_onedollar.tex [11] [12]
+第 4 章
+[13
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+ [14] [15]
+File: img/algorithm_1.eps Graphic file (type eps)
+ <img/algorithm_1.eps> [16]) (./05_vdollar.tex [17]
+第 5 章
+[18
+
+] [19]
+File: img/cannot_recognized.eps Graphic file (type eps)
+ <img/cannot_recognized.eps> [20]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 96.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 107.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 113.
+
+
+File: img/group_similarity.eps Graphic file (type eps)
+<img/group_similarity.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 129.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+
+
+File: img/weight_method1.eps Graphic file (type eps)
+<img/weight_method1.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/weight_method2.eps Graphic file (type eps)
+<img/weight_method2.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/weight_graph.eps Graphic file (type eps)
+<img/weight_graph.eps>) (./06_evaluation.tex [21] [22] [23]
+第 6 章
+) (./07_application.tex [24
+
+]
+第 7 章
+) (./08_discussion.tex [25
+
+]
+第 8 章
+) (./09_conclusion.tex [26
+
+]
+第 9 章
+) [27
+
+] [28
+
+] (./master_thesis.bbl
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 14.
+
+[29
+
+] [30] [31]) (./20_appendix.tex) [32] (./master_thesis.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1148 strings out of 493777
+ 15942 string characters out of 6151334
+ 74929 words of memory out of 5000000
+ 4602 multiletter control sequences out of 15000+600000
+ 20607 words of font info for 70 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 32i,8n,21p,1532b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on master_thesis.dvi (37 pages, 111088 bytes).

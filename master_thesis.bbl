@@ -1,0 +1,249 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{MMM{\etalchar{+}}97}
+
+\bibitem[ABS04]{Anderson2004HiddenMM}
+Derek Anderson, Craig Bailey, and Marjorie Skubic.
+\newblock Hidden {M}arkov {M}odel {S}ymbol {R}ecognition for {S}ketch-based
+  {I}nterfaces.
+\newblock 2004.
+
+\bibitem[AW10]{Anthony:2010:LMR:1839214.1839258}
+Lisa Anthony and Jacob~O. Wobbrock.
+\newblock A {L}ightweight {M}ultistroke {R}ecognizer for {U}ser {I}nterface
+  {P}rototypes.
+\newblock In {\em Proceedings of Graphics Interface 2010}, GI '10, pp.
+  245--252, Toronto, Ont., Canada, Canada, 2010. Canadian Information
+  Processing Society.
+
+\bibitem[AW12]{Anthony:2012:NFA:2305276.2305296}
+Lisa Anthony and Jacob~O. Wobbrock.
+\newblock \${N}-protractor: {A} {F}ast and {A}ccurate {M}ultistroke
+  {R}ecognizer.
+\newblock In {\em Proceedings of Graphics Interface 2012}, GI '12, pp.
+  117--120, Toronto, Ont., Canada, Canada, 2012. Canadian Information
+  Processing Society.
+
+\bibitem[BNLH11]{Bragdon:2011:EAT:1978942.1979000}
+Andrew Bragdon, Eugene Nelson, Yang Li, and Ken Hinckley.
+\newblock Experimental {A}nalysis of {T}ouch-screen {G}esture {D}esigns in
+  {M}obile {E}nvironments.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '11, pp. 403--412, New York, NY, USA, 2011. ACM.
+
+\bibitem[CB05]{Cao:2005:EOA:1089508.1089540}
+Xiang Cao and Ravin Balakrishnan.
+\newblock Evaluation of an on-line adaptive gesture interface with command
+  prediction.
+\newblock In {\em Proceedings of Graphics Interface 2005}, GI '05, pp.
+  187--194, School of Computer Science, University of Waterloo, Waterloo,
+  Ontario, Canada, 2005. Canadian Human-Computer Communications Society.
+
+\bibitem[Cho06]{Cho:2006:NGR:1711617.1711649}
+Mi~Gyung Cho.
+\newblock A {N}ew {G}esture {R}ecognition {A}lgorithm and {S}egmentation
+  {M}ethod of {K}orean {S}cripts for {G}esture-allowed {I}nk {E}ditor.
+\newblock {\em Information Sciences}, Vol. 176, No.~9, pp. 1290--1303, May
+  2006.
+
+\bibitem[HHN90]{Henry:1990:IGS:97924.97938}
+Tyson~R. Henry, Scott~E. Hudson, and Gary~L. Newell.
+\newblock Integrating {G}esture and {S}napping into a {U}ser {I}nterface
+  {T}oolkit.
+\newblock In {\em Proceedings of the 3rd Annual ACM SIGGRAPH Symposium on User
+  Interface Software and Technology}, UIST '90, pp. 112--122, New York, NY,
+  USA, 1990. ACM.
+
+\bibitem[HL00]{Hong:2000:STI:354401.354412}
+Jason~I. Hong and James~A. Landay.
+\newblock {S}{A}{T}{I}{N}: {A} {T}oolkit for {I}nformal {I}nk-based
+  {A}pplications.
+\newblock In {\em Proceedings of the 13th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '00, pp. 63--72, New York, NY, USA,
+  2000. ACM.
+
+\bibitem[HS12]{Herold:2012:CRF:2331067.2331074}
+J.~Herold and T.~F. Stahovich.
+\newblock The 1\&{C}ent; {R}ecognizer: {A} {F}ast, {A}ccurate, and
+  {E}asy-to-implement {H}andwritten {G}esture {R}ecognition {T}echnique.
+\newblock In {\em Proceedings of the International Symposium on Sketch-Based
+  Interfaces and Modeling}, SBIM '12, pp. 39--46, Aire-la-Ville, Switzerland,
+  Switzerland, 2012. Eurographics Association.
+
+\bibitem[HTH00]{Hong00constructingfinite}
+Pengyu Hong, Matthew Turk, and Thomas~S. Huang.
+\newblock Constructing {F}inite {S}tate {M}achines for {F}ast {G}esture
+  {R}ecognition.
+\newblock In {\em In Proc. 15th ICPR}, pp. 691--694, 2000.
+
+\bibitem[KS05]{Kara:2005:ITS:1652319.1652712}
+Levent~Burak Kara and Thomas~F. Stahovich.
+\newblock An image-based, trainable symbol recognizer for hand-drawn sketches.
+\newblock {\em Comput. Graph.}, Vol.~29, No.~4, pp. 501--517, August 2005.
+
+\bibitem[KZ04]{Kristensson:2004:SLV:1029632.1029640}
+Per-Ola Kristensson and Shumin Zhai.
+\newblock Shark2: A large vocabulary shorthand writing system for pen-based
+  computers.
+\newblock In {\em Proceedings of the 17th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '04, pp. 43--52, New York, NY, USA,
+  2004. ACM.
+
+\bibitem[Li10]{Li:2010:PFA:1753326.1753654}
+Yang Li.
+\newblock Protractor: {A} {F}ast and {A}ccurate {G}esture {R}ecognizer.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '10, pp. 2169--2172, New York, NY, USA, 2010. ACM.
+
+\bibitem[LM93]{Landay:1993:EEU:259964.260123}
+James~A. Landay and Brad~A. Myers.
+\newblock Extending an {E}xisting {U}ser {I}nterface {T}oolkit to {S}upport
+  {G}esture {R}ecognition.
+\newblock In {\em INTERACT '93 and CHI '93 Conference Companion on Human
+  Factors in Computing Systems}, CHI '93, pp. 91--92, New York, NY, USA, 1993.
+  ACM.
+
+\bibitem[LNHL00]{Lin:2000:DFT:332040.332486}
+James Lin, Mark~W. Newman, Jason~I. Hong, and James~A. Landay.
+\newblock {D}{E}{N}{I}{M}: {F}inding a {T}ighter {F}it {B}etween {T}ools and
+  {P}ractice for {W}eb {S}ite {D}esign.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '00, pp. 510--517, New York, NY, USA, 2000. ACM.
+
+\bibitem[MMM{\etalchar{+}}97]{Myers:1997:AEN:262050.260628}
+Brad~A. Myers, Richard~G. McDaniel, Robert~C. Miller, Alan~S. Ferrency, Andrew
+  Faulring, Bruce~D. Kyle, Andrew Mickish, Alex Klimovitski, and Patrick Doane.
+\newblock The {A}mulet {E}nvironment: {N}ew {M}odels for {E}ffective {U}ser
+  {I}nterface {S}oftware {D}evelopment.
+\newblock {\em IEEE Transactions on Software Engineering}, Vol.~23, No.~6, pp.
+  347--365, June 1997.
+
+\bibitem[Pit91]{Pittman:1991:RHT:108844.108914}
+James~A. Pittman.
+\newblock Recognizing {H}andwritten {T}ext.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '91, pp. 271--275, New York, NY, USA, 1991. ACM.
+
+\bibitem[PS00]{Plamondon:2000:OOH:331097.331275}
+R{\'e}jean Plamondon and Sargur~N. Srihari.
+\newblock On-line and off-line handwriting recognition: A comprehensive survey.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, Vol.~22, No.~1, pp.
+  63--84, January 2000.
+
+\bibitem[PTVF92]{Press:1992:NRC:148286}
+William~H. Press, Saul~A. Teukolsky, William~T. Vetterling, and Brian~P.
+  Flannery.
+\newblock {\em Numerical {R}ecipes in {C} (2{N}d Edition): {T}he {A}rt of
+  {S}cientific {C}omputing}.
+\newblock Cambridge University Press, New York, NY, USA, 1992.
+
+\bibitem[Ret94]{Rettig:1994:PTF:175276.175288}
+Marc Rettig.
+\newblock Prototyping for {T}iny {F}ingers.
+\newblock {\em Communications of the {A}{C}{M}}, Vol.~37, No.~4, pp. 21--27,
+  April 1994.
+
+\bibitem[RSH11]{Reaver:2011:MQU:2021164.2021183}
+J.~Reaver, T.~F. Stahovich, and J.~Herold.
+\newblock How to {M}ake a {Q}uick\$: {U}sing {H}ierarchical {C}lustering to
+  {I}mprove the {E}fficiency of the {D}ollar {R}ecognizer.
+\newblock In {\em Proceedings of the Eighth Eurographics Symposium on
+  Sketch-Based Interfaces and Modeling}, SBIM '11, pp. 103--108, New York, NY,
+  USA, 2011. ACM.
+
+\bibitem[Rub91a]{Rubine:1991:SGE:127719.122753}
+Dean Rubine.
+\newblock Specifying {G}estures by {E}xample.
+\newblock {\em SIGGRAPH Computer Graphics}, Vol.~25, No.~4, pp. 329--337, July
+  1991.
+
+\bibitem[Rub91b]{Rubine:1991:SGE:122718.122753}
+Dean Rubine.
+\newblock Specifying {G}estures by {E}xample.
+\newblock In {\em Proceedings of the 18th Annual Conference on Computer
+  Graphics and Interactive Techniques}, SIGGRAPH '91, pp. 329--337, New York,
+  NY, USA, 1991. ACM.
+
+\bibitem[SC07]{Salvador:2007:TAD:1367985.1367993}
+Stan Salvador and Philip Chan.
+\newblock Toward {A}ccurate {D}ynamic {T}ime {W}arping in {L}inear {T}ime and
+  {S}pace.
+\newblock {\em Intelligent Data Analysis}, Vol.~11, No.~5, pp. 561--580,
+  October 2007.
+
+\bibitem[SD05]{Sezgin:2005:HES:1040830.1040899}
+Tevfik~Metin Sezgin and Randall Davis.
+\newblock Hmm-based {E}fficient {S}ketch {R}ecognition.
+\newblock In {\em Proceedings of the 10th International Conference on
+  Intelligent User Interfaces}, IUI '05, pp. 281--283, New York, NY, USA, 2005.
+  ACM.
+
+\bibitem[SMSJ{\etalchar{+}}15]{Shimon:2015:EUB:2785830.2785890}
+Shaikh Shawon~Arefin Shimon, Sarah Morrison-Smith, Noah John, Ghazal Fahimi,
+  and Jaime Ruiz.
+\newblock Exploring {U}ser-{D}efined {B}ack-{O}f-{D}evice {G}estures for
+  {M}obile {D}evices.
+\newblock In {\em Proceedings of the 17th International Conference on
+  Human-Computer Interaction with Mobile Devices and Services}, MobileHCI '15,
+  pp. 227--232, New York, NY, USA, 2015. ACM.
+
+\bibitem[Tap82]{Tappert:1982:CSR:1664966.1664979}
+C.~C. Tappert.
+\newblock Cursive {S}cript {R}ecognition by {E}lastic {M}atching.
+\newblock {\em IBM Journal of Reseach and Development}, Vol.~26, No.~6, pp.
+  765--771, November 1982.
+
+\bibitem[TL15]{Taranta:2015:PPB:2788890.2788925}
+Eugene~M. Taranta, II and Joseph~J. LaViola, Jr.
+\newblock Penny {P}incher: {A} {B}lazing {F}ast, {H}ighly {A}ccurate \$-family
+  {R}ecognizer.
+\newblock In {\em Proceedings of the 41st Graphics Interface Conference}, GI
+  '15, pp. 195--202, Toronto, Ont., Canada, Canada, 2015. Canadian Information
+  Processing Society.
+
+\bibitem[TSW90]{Tappert:1990:SAO:83123.83137}
+C.~C. Tappert, C.~Y. Suen, and T.~Wakahara.
+\newblock The state of the art in online handwriting recognition.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, Vol.~12, No.~8, pp.
+  787--808, August 1990.
+
+\bibitem[Vat12]{Vatavu:2012:UGF:2325616.2325626}
+Radu-Daniel Vatavu.
+\newblock User-defined {G}estures for {F}ree-hand {T}{V} {C}ontrol.
+\newblock In {\em Proceedings of the 10th European Conference on Interactive tv
+  and video}, EuroiTV '12, pp. 45--48, New York, NY, USA, 2012. ACM.
+
+\bibitem[VAW12]{Vatavu:2012:GPC:2388676.2388732}
+Radu-Daniel Vatavu, Lisa Anthony, and Jacob~O. Wobbrock.
+\newblock Gestures {A}s {P}oint {C}louds: {A} \${P} {R}ecognizer for {U}ser
+  {I}nterface {P}rototypes.
+\newblock In {\em Proceedings of the 14th ACM International Conference on
+  Multimodal Interaction}, ICMI '12, pp. 273--280, New York, NY, USA, 2012.
+  ACM.
+
+\bibitem[WMW09]{Wobbrock:2009:UGS:1518701.1518866}
+Jacob~O. Wobbrock, Meredith~Ringel Morris, and Andrew~D. Wilson.
+\newblock User-defined {G}estures for {S}urface {C}omputing.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '09, pp. 1083--1092, New York, NY, USA, 2009. ACM.
+
+\bibitem[WS03]{Wilson:2003:XUI:642611.642706}
+Andrew Wilson and Steven Shafer.
+\newblock Xwand: Ui for intelligent spaces.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '03, pp. 545--552, New York, NY, USA, 2003. ACM.
+
+\bibitem[WWL07]{Wobbrock:2007:GWL:1294211.1294238}
+Jacob~O. Wobbrock, Andrew~D. Wilson, and Yang Li.
+\newblock Gestures {W}ithout {L}ibraries, {T}oolkits or {T}raining: A \$1
+  {R}ecognizer for {U}ser {I}nterface {P}rototypes.
+\newblock In {\em Proceedings of the 20th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '07, pp. 159--168, New York, NY,
+  USA, 2007. ACM.
+
+\bibitem[ZK03]{Zhai:2003:SWS:642611.642630}
+Shumin Zhai and Per-Ola Kristensson.
+\newblock Shorthand writing on stylus keyboard.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '03, pp. 97--104, New York, NY, USA, 2003. ACM.
+
+\end{thebibliography}

@@ -1,0 +1,26 @@
+%手法名
+\newcommand{\SysName}{\$V}
+
+% 修正とTODO
+\newcommand{\fixme}[1]{\textcolor[rgb]{1,0,0}{#1}}
+\newcommand{\TODO}[1]{\textcolor[rgb]{0,0,1}{#1}}
+
+% 参照
+\newcommand{\refImg}[1]{図\ref{img:#1}}
+\newcommand{\refSec}[1]{\ref{sec:#1}節}
+%\newcommand{\refSec}[1]{第\ref{sec:#1}節}
+\newcommand{\secLabel}[1]{\label{sec:#1}}
+
+% 画像
+\newcommand{\img}[5]{
+\begin{figure}[#1]
+	\begin{center}
+		\includegraphics[width = #2\hsize]{./img/#3}
+	\end{center}
+	\caption{#4}
+	\label{img:#5}
+\end{figure}
+}
+
+\newcommand{\unit}[1]{\,#1} % 120,\unit{mm}→120mm」をイイ！感じにスペーシングしてくれる
+\newcommand{\kake}{~$\times$~} % →×

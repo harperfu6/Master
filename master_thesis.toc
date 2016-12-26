@@ -1,0 +1,46 @@
+\contentsline {chapter}{\numberline {第1章}序論}{1}
+\contentsline {section}{\numberline {1.1}背景}{1}
+\contentsline {section}{\numberline {1.2}目的}{2}
+\contentsline {section}{\numberline {1.3}貢献}{4}
+\contentsline {section}{\numberline {1.4}本論文の構成}{4}
+\contentsline {chapter}{\numberline {第2章}関連研究}{5}
+\contentsline {section}{\numberline {2.1}手書きジェスチャ認識アルゴリズム}{5}
+\contentsline {section}{\numberline {2.2}ユーザ定義に特化した手書きジェスチャ認識アルゴリズム}{6}
+\contentsline {section}{\numberline {2.3}手書きジェスチャ認識を可能にするツールキット}{6}
+\contentsline {section}{\numberline {2.4}\$-Family Recognizer}{6}
+\contentsline {section}{\numberline {2.5}手書きジェスチャの評価研究}{8}
+\contentsline {section}{\numberline {2.6}本研究の位置づけ}{8}
+\contentsline {chapter}{\numberline {第3章}ユーザ調査}{9}
+\contentsline {section}{\numberline {3.1}アプリケーションユーザへの手書きジェスチャの調査}{9}
+\contentsline {section}{\numberline {3.2}被験者}{9}
+\contentsline {section}{\numberline {3.3}調査手順}{9}
+\contentsline {section}{\numberline {3.4}調査結果}{10}
+\contentsline {chapter}{\numberline {第4章}\$1アルゴリズム}{13}
+\contentsline {section}{\numberline {4.1}特徴}{13}
+\contentsline {section}{\numberline {4.2}4つのステップ}{14}
+\contentsline {subsection}{\numberline {4.2.1}リサンプル}{14}
+\contentsline {subsection}{\numberline {4.2.2}向きの正規化}{14}
+\contentsline {subsection}{\numberline {4.2.3}大きさと位置の正規化}{15}
+\contentsline {subsection}{\numberline {4.2.4}類似度を高くするための最適な角度}{15}
+\contentsline {subsection}{\numberline {4.2.5}類似度計算}{16}
+\contentsline {section}{\numberline {4.3}リミテーション}{16}
+\contentsline {chapter}{\numberline {第5章}\$Vアルゴリズム}{18}
+\contentsline {section}{\numberline {5.1}\$Vアルゴリズムが目指す特徴}{18}
+\contentsline {section}{\numberline {5.2}\$Vアルゴリズムのアイディア}{19}
+\contentsline {subsection}{\numberline {5.2.1}大きさ，向き，位置に関して識別可能にする方法}{19}
+\contentsline {subsection}{\numberline {5.2.2}学習データの保持の方法}{19}
+\contentsline {subsection}{\numberline {5.2.3}ジェスチャグループごとの特徴量の選定}{21}
+\contentsline {section}{\numberline {5.3}ストロークの類似度の定義}{21}
+\contentsline {subsection}{\numberline {5.3.1}大きさ}{21}
+\contentsline {subsection}{\numberline {5.3.2}向き}{21}
+\contentsline {subsection}{\numberline {5.3.3}位置}{21}
+\contentsline {section}{\numberline {5.4}形状グループの作成}{21}
+\contentsline {section}{\numberline {5.5}最適な重み付けのための実験}{21}
+\contentsline {subsection}{\numberline {5.5.1}実験結果}{21}
+\contentsline {section}{\numberline {5.6}ジェスチャの認識}{21}
+\contentsline {chapter}{\numberline {第6章}評価実験}{24}
+\contentsline {chapter}{\numberline {第7章}アプリケーション例}{25}
+\contentsline {chapter}{\numberline {第8章}議論}{26}
+\contentsline {chapter}{\numberline {第9章}結論}{27}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{28}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{29}
