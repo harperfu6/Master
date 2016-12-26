@@ -97,11 +97,11 @@
 \citation{Kara:2005:ITS:1652319.1652712}
 \citation{Press:1992:NRC:148286}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}大きさと位置の正規化}{15}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}類似度を高くするための最適な角度}{15}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}類似度を高くするための最適な角度の選定}{15}}
 \@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Each step in the \$1 algorithm process}}{16}}
 \newlabel{fig:algorithm_1}{{4.1}{16}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.5}類似度計算}{16}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.3}リミテーション}{16}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}類似度計算}{16}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}リミテーション}{16}}
 \citation{Rubine:1991:SGE:122718.122753}
 \@writefile{toc}{\contentsline {chapter}{\numberline {第5章}\$Vアルゴリズム}{18}}
 \@writefile{lof}{\addvspace {10\p@ }}
@@ -113,35 +113,43 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces 大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例}}{20}}
 \newlabel{fig:cannot_recognized}{{5.1}{20}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.2.3}ジェスチャグループごとの特徴量の選定}{21}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.3}ストロークの類似度の定義}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}ジェスチャの類似度の定義}{21}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.3.1}大きさ}{21}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.3.2}向き}{21}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.3}位置}{21}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.4}形状グループの作成}{21}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.5}最適な重み付けのための実験}{21}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.5.1}実験結果}{21}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.6}ジェスチャの認識}{21}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces An Example of how to decide a similarity ($Sts$, $Sto$, $Stp$) of tempaltes in a group gesture, in this case (0.8, 0.1, 0.4) is the similarities.}}{22}}
-\newlabel{fig:group_similarity}{{5.2}{22}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces The procedure to decide the optimal weight values }}{22}}
-\newlabel{fig:weight_method1}{{5.3}{22}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces The procedure to decide non optimal weight values}}{23}}
-\newlabel{fig:weight_method2}{{5.4}{23}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces The result of the experiment to find the optimal weight values, and blue lines indicates power approximation curves.}}{23}}
-\newlabel{fig:weight_graph}{{5.5}{23}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第6章}評価実験}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.3}位置}{22}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}認識に用いる特徴量を選定した時の認識率と認識速度の実験}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.1}被験者}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.2}実験機器}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.3}実験手順}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{23}}
+\newlabel{fig:screenshot}{{5.2}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.4}実験結果}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.5}考察}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.5}形状グループの作成}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.6}最適な重み付けのための実験}{24}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces An Example of how to decide a similarity ($Sts$, $Sto$, $Stp$) of tempaltes in a group gesture, in this case (0.8, 0.1, 0.4) is the similarities.}}{24}}
+\newlabel{fig:group_similarity}{{5.3}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.6.1}実験結果}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.7}ジェスチャの認識}{24}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces The procedure to decide the optimal weight values }}{25}}
+\newlabel{fig:weight_method1}{{5.4}{25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces The procedure to decide non optimal weight values}}{25}}
+\newlabel{fig:weight_method2}{{5.5}{25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.6}{\ignorespaces The result of the experiment to find the optimal weight values, and blue lines indicates power approximation curves.}}{26}}
+\newlabel{fig:weight_graph}{{5.6}{26}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第6章}評価実験}{27}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第7章}アプリケーション例}{25}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第7章}アプリケーション例}{28}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第8章}議論}{26}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第8章}議論}{29}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第9章}結論}{27}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第9章}結論}{30}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{28}}
+\@writefile{toc}{\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{31}}
 \bibstyle{jalpha}
 \bibdata{master_thesis}
 \bibcite{Anderson2004HiddenMM}{ABS04}
@@ -153,7 +161,7 @@
 \bibcite{Henry:1990:IGS:97924.97938}{HHN90}
 \bibcite{Hong:2000:STI:354401.354412}{HL00}
 \bibcite{Herold:2012:CRF:2331067.2331074}{HS12}
-\@writefile{toc}{\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{29}}
+\@writefile{toc}{\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{32}}
 \bibcite{Hong00constructingfinite}{HTH00}
 \bibcite{Kara:2005:ITS:1652319.1652712}{KS05}
 \bibcite{Kristensson:2004:SLV:1029632.1029640}{KZ04}

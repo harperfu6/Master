@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  26 DEC 2016 19:32
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  26 DEC 2016 23:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -213,46 +213,50 @@ File: img/algorithm_1.eps Graphic file (type eps)
 File: img/cannot_recognized.eps Graphic file (type eps)
  <img/cannot_recognized.eps> [20]
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 96.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 99.
 
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 107.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 111.
 
 
+[21]
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 113.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 119.
 
 
-File: img/group_similarity.eps Graphic file (type eps)
-<img/group_similarity.eps>
+File: img/screenshot.eps Graphic file (type eps)
+<img/screenshot.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[22]
+File: img/group_similarity.eps Graphic file (type eps)
+ <img/group_similarity.eps> [23]
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 129.
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
-
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 183.
 
 
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 183.
 
 
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 183.
 
 
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 183.
 
 
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 129.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 183.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 183.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 183.
 
 
 File: img/weight_method1.eps Graphic file (type eps)
@@ -266,23 +270,23 @@ File: img/weight_method2.eps Graphic file (type eps)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: img/weight_graph.eps Graphic file (type eps)
-<img/weight_graph.eps>) (./06_evaluation.tex [21] [22] [23]
+<img/weight_graph.eps>) (./06_evaluation.tex [24] [25] [26]
 第 6 章
-) (./07_application.tex [24
+) (./07_application.tex [27
 
 ]
 第 7 章
-) (./08_discussion.tex [25
+) (./08_discussion.tex [28
 
 ]
 第 8 章
-) (./09_conclusion.tex [26
+) (./09_conclusion.tex [29
 
 ]
 第 9 章
-) [27
+) [30
 
-] [28
+] [31
 
 ] (./master_thesis.bbl
 
@@ -293,20 +297,20 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 14.
 
-[29
+[32
 
-] [30] [31]) (./20_appendix.tex) [32] (./master_thesis.aux)
+] [33] [34]) (./20_appendix.tex) [35] (./master_thesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 1148 strings out of 493777
- 15942 string characters out of 6151334
+ 1152 strings out of 493777
+ 16008 string characters out of 6151334
  74929 words of memory out of 5000000
- 4602 multiletter control sequences out of 15000+600000
+ 4605 multiletter control sequences out of 15000+600000
  20607 words of font info for 70 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  32i,8n,21p,1532b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on master_thesis.dvi (37 pages, 111088 bytes).
+Output written on master_thesis.dvi (40 pages, 123004 bytes).
