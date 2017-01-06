@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  27 DEC 2016 14:27
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  6 JAN 2017 22:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -111,7 +111,31 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 \vspaceabstract=\dimen126
 ) (./master_thesis.aux
 
-LaTeX Warning: Label `alg1' multiply defined.
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
 
 )
 \openout1 = `master_thesis.aux'.
@@ -171,17 +195,18 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 93.
  (./master_thesis.toc [1
 
-])
+] [2])
 \tf@toc=\write3
 \openout3 = `master_thesis.toc'.
 
- [2] (./master_thesis.lof)
+ [3]
+(./master_thesis.lof [4
+
+])
 \tf@lof=\write4
 \openout4 = `master_thesis.lof'.
 
- [3
-
-] (./01_introduction.tex
+ [5] (./01_introduction.tex
 第 1 章
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
@@ -232,109 +257,172 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
- [14] [15]
-File: img/algorithm_1.eps Graphic file (type eps)
- <img/algorithm_1.eps> [16]) (./05_vdollar.tex [17]
+File: img/strokes.eps Graphic file (type eps)
+ <img/strokes.eps> [14]
+File: img/resample.eps Graphic file (type eps)
+ <img/resample.eps>
+File: img/orientation.eps Graphic file (type eps)
+ <img/orientation.eps>
+File: img/size.eps Graphic file (type eps)
+
+<img/size.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15]
+File: img/position.eps Graphic file (type eps)
+ <img/position.eps> [16]
+File: img/golden.eps Graphic file (type eps)
+ <img/golden.eps>
+File: img/onedoller_flow.eps Graphic file (type eps)
+ <img/onedoller_flow.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17] [18]
+File: img/line.eps Graphic file (type eps)
+ <img/line.eps>) (./05_vdollar.tex [19]
 第 5 章
-[18
+[20
 
-]
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 42.
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 54.
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 62.
-
-[19] [20]
+] [21] [22]
 File: img/cannot_recognized.eps Graphic file (type eps)
- <img/cannot_recognized.eps> [21] [22]
+ <img/cannot_recognized.eps> [23]
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 113.
+
+
+LaTeX Warning: Reference `fig:angle' on page 24 undefined on input line 125.
+
+[24]
+
+LaTeX Warning: Reference `fig:location' on page 25 undefined on input line 134.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 135.
+
+
+
+LaTeX Warning: Reference `fig:n-bestlist' on page 25 undefined on input line 17
+1.
+
+[25]
 File: img/group_similarity.eps Graphic file (type eps)
  <img/group_similarity.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23]
-
-LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 190.
-
-
-LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 190.
-
+[26] [27]
 File: img/screenshot.eps Graphic file (type eps)
-<img/screenshot.eps> [24] [25] [26]
+ <img/screenshot.eps>
 
-LaTeX Warning: Reference `fig:flow' on page 27 undefined on input line 264.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[28] [29]
+File: img/pre_rec.eps Graphic file (type eps)
+ <img/pre_rec.eps>
 
-LaTeX Warning: Reference `fig:n-bestlist' on page 27 undefined on input line 26
-4.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+File: img/pre_speed.eps Graphic file (type eps)
+<img/pre_speed.eps>
 
-LaTeX Warning: Reference `fig:flow' on page 27 undefined on input line 267.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+File: img/pre_diff.eps Graphic file (type eps)
+<img/pre_diff.eps> [30]
 
-LaTeX Warning: Reference `fig:flow' on page 27 undefined on input line 270.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+File: img/pre_sim.eps Graphic file (type eps)
+<img/pre_sim.eps>
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 276.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[31]
+File: img/pre_min.eps Graphic file (type eps)
+ <img/pre_min.eps>
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 276.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 276.
-
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 276.
-
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 276.
-
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 276.
-
-
-
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 276.
-
-
+[32] [33] [34] [35]
 File: img/weight_method1.eps Graphic file (type eps)
-<img/weight_method1.eps>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+ <img/weight_method1.eps>
 File: img/weight_method2.eps Graphic file (type eps)
-<img/weight_method2.eps>
+ <img/weight_method2.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: img/weight_graph.eps Graphic file (type eps)
-<img/weight_graph.eps>) (./06_evaluation.tex [27] [28] [29]
+[36]
+File: img/weight_size.eps Graphic file (type eps)
+ <img/weight_size.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/weight_orientation.eps Graphic file (type eps)
+<img/weight_orientation.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/weight_position.eps Graphic file (type eps)
+<img/weight_position.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37]) (./06_evaluation.tex [38] [39] [40] [41]
 第 6 章
-) (./07_application.tex [30
+File: img/rec_rate.eps Graphic file (type eps)
+<img/rec_rate.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/rec_speed.eps Graphic file (type eps)
+<img/rec_speed.eps> [42
 
 ]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/rec_speed_dtw.eps Graphic file (type eps)
+<img/rec_speed_dtw.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[43]
+File: img/rec_diff.eps Graphic file (type eps)
+ <img/rec_diff.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/rec_sim.eps Graphic file (type eps)
+<img/rec_sim.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/rec_min.eps Graphic file (type eps)
+<img/rec_min.eps> [44]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45] [46]) (./07_application.tex [47]
 第 7 章
-) (./08_discussion.tex [31
+) (./08_discussion.tex [48
 
 ]
 第 8 章
-) (./09_conclusion.tex [32
+) (./09_conclusion.tex [49
 
 ]
 第 9 章
-) [33
+) [50
 
-] [34
+] [51
 
 ] (./master_thesis.bbl
 
@@ -345,9 +433,9 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 14.
 
-[35
+[52
 
-] [36] [37]) (./20_appendix.tex) [38] [39] [40] (./master_thesis.aux)
+] [53] [54]) [55] (./master_thesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -359,12 +447,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1440 strings out of 493777
- 19361 string characters out of 6151334
+ 1450 strings out of 493777
+ 19750 string characters out of 6151334
  83151 words of memory out of 5000000
- 4880 multiletter control sequences out of 15000+600000
- 20607 words of font info for 70 fonts, out of 8000000 for 9000
+ 4875 multiletter control sequences out of 15000+600000
+ 19911 words of font info for 68 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 32i,8n,21p,1532b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,8n,21p,1532b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on master_thesis.dvi (45 pages, 144696 bytes).
+Output written on master_thesis.dvi (62 pages, 192600 bytes).

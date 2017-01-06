@@ -5,15 +5,35 @@
 \contentsline {figure}{\numberline {3.1}{\ignorespaces \$1において用いられる，一般的にスマートフォンやタブレット端末などのタッチパネルへの手書き入力やペン入力において良く用いられる，単一ストロークからなる手書きジェスチャの例}}{10}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces 調査において6人の被験者\nobreakspace {}(P1～P6)から得られた，用いたい手書きジェスチャの一覧}}{12}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Each step in the \$1 algorithm process}}{16}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Each step in the \$1 algorithm process}}{14}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Each step in the \$1 algorithm process}}{15}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Each step in the \$1 algorithm process}}{15}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Each step in the \$1 algorithm process}}{16}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Each step in the \$1 algorithm process}}{16}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Each step in the \$1 algorithm process}}{17}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Each step in the \$1 algorithm process}}{18}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Each step in the \$1 algorithm process}}{19}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces 大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例}}{21}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces An Example of how to decide a similarity ($Sts$, $Sto$, $Stp$) of tempaltes in a group gesture, in this case (0.8, 0.1, 0.4) is the similarities.}}{24}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{25}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces The procedure to decide the optimal weight values }}{28}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces The procedure to decide non optimal weight values}}{28}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces The result of the experiment to find the optimal weight values, and blue lines indicates power approximation curves.}}{29}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例}}{23}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces ジェスチャグループの学習データ間の類似度\nobreakspace {}($Sts$, $Sto$, $Stp$) を求める方法，この場合，(0.8, 0.1, 0.4)となる．}}{27}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 実験に用いたスマートフォンのスクリーンショット．緑色のエリアがジェスチャが入力されるエリアである．}}{29}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces 各手法における，被験者ごとの認識率}}{31}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 各手法における，被験者ごとの認識速度}}{32}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces 各手法における，被験者ごとのN-best Listsの1番目と2番目の差}}{33}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces 各手法における，被験者ごとのジェスチャが正しく認識された時の類似度}}{34}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces 各手法における，被験者ごとのジェスチャが正しく認識された時の類似度の最小値}}{35}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The procedure to decide the optimal weight values }}{36}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces The procedure to decide non optimal weight values}}{37}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{39}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{40}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{41}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{43}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{44}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{45}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{46}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{46}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{47}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
