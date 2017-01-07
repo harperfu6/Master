@@ -57,7 +57,7 @@
 \contentsline {section}{\numberline {5.4}最適な重み付けのための実験}{38}
 \contentsline {subsection}{\numberline {5.4.1}重み付けの手順}{38}
 \contentsline {subsection}{\numberline {5.4.2}実験結果}{39}
-\contentsline {section}{\numberline {5.5}最適な重みを用いたジェスチャの認識}{41}
+\contentsline {section}{\numberline {5.5}最適な重みを用いたジェスチャの認識}{40}
 \contentsline {chapter}{\numberline {第6章}評価実験}{45}
 \contentsline {section}{\numberline {6.1}実験設計}{45}
 \contentsline {section}{\numberline {6.2}実験結果と考察}{45}
@@ -70,7 +70,13 @@
 \contentsline {subsubsection}{ジェスチャが一致した時の類似度}{48}
 \contentsline {subsubsection}{ジェスチャが一致した時の類似度の最小値}{48}
 \contentsline {chapter}{\numberline {第7章}アプリケーション例}{51}
-\contentsline {chapter}{\numberline {第8章}議論}{52}
-\contentsline {chapter}{\numberline {第9章}結論}{53}
-\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{54}
-\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{55}
+\contentsline {section}{\numberline {7.1}手書きジェスチャを利用したアプリケーション開発ツールキット}{51}
+\contentsline {chapter}{\numberline {第8章}議論}{54}
+\contentsline {section}{\numberline {8.1}最適な重み付けの再定義}{54}
+\contentsline {section}{\numberline {8.2}ユーザに依存しない手書きジェスチャの精度評価}{54}
+\contentsline {section}{\numberline {8.3}書き順に依存しないアルゴリズムの導入}{55}
+\contentsline {section}{\numberline {8.4}スマートフォン以外の端末への応用}{55}
+\contentsline {section}{\numberline {8.5}空中手書きジェスチャへの応用}{56}
+\contentsline {chapter}{\numberline {第9章}結論}{57}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{58}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{59}

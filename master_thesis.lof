@@ -42,5 +42,8 @@
 \contentsline {figure}{\numberline {6.5}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{49}
 \contentsline {figure}{\numberline {6.6}{\ignorespaces The screen shot on the smartphone. The green area is the input area}}{50}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces 手書きジェスチャを利用したアプリケーション開発ツールキット．\nobreakspace {}(a)まず，ユーザはスマートフォンなどの手書きジェスチャを入力する端末を用いて学習データを追加し，\nobreakspace {}(b)\$Vが実装されたツールキットが追加された学習データを自動的にジェスチャグループに分類し，ジェスチャグループごとに重みを計算する．(c)最後にユーザはコマンドを割り当てる．}}{52}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces ツールキットを使って開発されたメディアプレイヤの例．\nobreakspace {}(a)アプリケーションのスクリーンショット，\nobreakspace {}(b)実際にスマートフォンを用いて入力している場面}}{53}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces 形状が同じであるが書き順の異なる手書きジェスチャの例}}{55}
 \addvspace {10\p@ }
