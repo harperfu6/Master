@@ -1,5 +1,5 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
-\begin{thebibliography}{MMM{\etalchar{+}}97}
+\begin{thebibliography}{GFMdOg09}
 
 \bibitem[ABS04]{Anderson2004HiddenMM}
 Derek Anderson, Craig Bailey, and Marjorie Skubic.
@@ -23,6 +23,13 @@ Lisa Anthony and Jacob~O. Wobbrock.
   117--120, Toronto, Ont., Canada, Canada, 2012. Canadian Information
   Processing Society.
 
+\bibitem[AZ09]{Appert:2009:USC:1518701.1519052}
+Caroline Appert and Shumin Zhai.
+\newblock Using {S}trokes {A}s {C}ommand {S}hortcuts: {C}ognitive {B}enefits
+  and {T}oolkit {S}upport.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '09, pp. 2289--2298, New York, NY, USA, 2009. ACM.
+
 \bibitem[BNLH11]{Bragdon:2011:EAT:1978942.1979000}
 Andrew Bragdon, Eugene Nelson, Yang Li, and Ken Hinckley.
 \newblock Experimental {A}nalysis of {T}ouch-screen {G}esture {D}esigns in
@@ -32,8 +39,8 @@ Andrew Bragdon, Eugene Nelson, Yang Li, and Ken Hinckley.
 
 \bibitem[CB05]{Cao:2005:EOA:1089508.1089540}
 Xiang Cao and Ravin Balakrishnan.
-\newblock Evaluation of an on-line adaptive gesture interface with command
-  prediction.
+\newblock Evaluation of an {O}n-line {A}daptive {G}esture {I}nterface with
+  {C}ommand {P}rediction.
 \newblock In {\em Proceedings of Graphics Interface 2005}, GI '05, pp.
   187--194, School of Computer Science, University of Waterloo, Waterloo,
   Ontario, Canada, 2005. Canadian Human-Computer Communications Society.
@@ -44,6 +51,35 @@ Mi~Gyung Cho.
   {M}ethod of {K}orean {S}cripts for {G}esture-allowed {I}nk {E}ditor.
 \newblock {\em Information Sciences}, Vol. 176, No.~9, pp. 1290--1303, May
   2006.
+
+\bibitem[DS94]{Department94prototypeand}
+David~Skalak Department and David~B. Skalak.
+\newblock Prototype and {F}eature {S}election by {S}ampling and {R}andom
+  {M}utation {H}ill {C}limbing {A}lgorithms.
+\newblock In {\em Machine Learning: Proceedings of the Eleventh International
+  Conference}, pp. 293--301. Morgan Kaufmann, 1994.
+
+\bibitem[FVKS13]{Fischer:2013:GLS:2501115.2501123}
+Andreas Fischer, Muriel Visani, Van~Cuong Kieu, and Ching~Y. Suen.
+\newblock Generation of {L}earning {S}amples for {H}istorical {H}andwriting
+  {R}ecognition {U}sing {I}mage {D}egradation.
+\newblock In {\em Proceedings of the 2Nd International Workshop on Historical
+  Document Imaging and Processing}, HIP '13, pp. 73--79, New York, NY, USA,
+  2013. ACM.
+
+\bibitem[GFMdOg09]{Galbally_syntheticgeneration}
+Javier Galbally, Julian Fierrez, Marcos Martinez-diaz, and Javier
+  Ortega-garcia.
+\newblock Synthetic {G}eneration of {H}andwritten {S}ignatures {B}ased on
+  {S}pectral {A}nalysis, 2009.
+
+\bibitem[GKN{\etalchar{+}}05]{Gatos:2005:SAK:1106779.1106876}
+B.~Gatos, T.~Konidaris, K.~Ntzios, I.~Pratikakis, and S.~J. Perantonis.
+\newblock A {S}egmentation-free {A}pproach for {K}eyword {S}earch in
+  {H}istorical {T}ypewritten {D}ocuments.
+\newblock In {\em Proceedings of the Eighth International Conference on
+  Document Analysis and Recognition}, ICDAR '05, pp. 54--58, Washington, DC,
+  USA, 2005. IEEE Computer Society.
 
 \bibitem[HHN90]{Henry:1990:IGS:97924.97938}
 Tyson~R. Henry, Scott~E. Hudson, and Gary~L. Newell.
@@ -75,24 +111,68 @@ Pengyu Hong, Matthew Turk, and Thomas~S. Huang.
   {R}ecognition.
 \newblock In {\em In Proc. 15th ICPR}, pp. 691--694, 2000.
 
+\bibitem[HZS{\etalchar{+}}07]{Hinckley:2007:ISS:1240624.1240666}
+Ken Hinckley, Shengdong Zhao, Raman Sarin, Patrick Baudisch, Edward Cutrell,
+  Michael Shilman, and Desney Tan.
+\newblock Inkseine: {I}n {S}itu {S}earch for {A}ctive {N}ote {T}aking.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '07, pp. 251--260, New York, NY, USA, 2007. ACM.
+
+\bibitem[KB93]{Kurtenbach:1993:LEP:164632.164977}
+Gordon Kurtenbach and William Buxton.
+\newblock The {L}imits of {E}xpert {P}erformance {U}sing {H}ierarchic {M}arking
+  {M}enus.
+\newblock In {\em Proceedings of the INTERCHI '93 Conference on Human Factors
+  in Computing Systems}, INTERCHI '93, pp. 482--487, Amsterdam, The
+  Netherlands, The Netherlands, 1993. IOS Press.
+
 \bibitem[KS05]{Kara:2005:ITS:1652319.1652712}
 Levent~Burak Kara and Thomas~F. Stahovich.
-\newblock An image-based, trainable symbol recognizer for hand-drawn sketches.
+\newblock An {I}mage-based, {T}rainable {S}ymbol {R}ecognizer for {H}and-drawn
+  {S}ketches.
 \newblock {\em Comput. Graph.}, Vol.~29, No.~4, pp. 501--517, August 2005.
 
 \bibitem[KZ04]{Kristensson:2004:SLV:1029632.1029640}
 Per-Ola Kristensson and Shumin Zhai.
-\newblock Shark2: A large vocabulary shorthand writing system for pen-based
-  computers.
+\newblock S{H}{A}{R}{K}2: {A} {L}arge {V}ocabulary {S}horthand {W}riting
+  {S}ystem for {P}en-based {C}omputers.
 \newblock In {\em Proceedings of the 17th Annual ACM Symposium on User
   Interface Software and Technology}, UIST '04, pp. 43--52, New York, NY, USA,
   2004. ACM.
 
-\bibitem[Li10]{Li:2010:PFA:1753326.1753654}
+\bibitem[LGHH08]{Liao:2008:PGC:1314683.1314686}
+Chunyuan Liao, Fran\c{c}ois Guimbreti\`{e}re, Ken Hinckley, and Jim Hollan.
+\newblock Papiercraft: {A} {G}esture-based {C}ommand {S}ystem for {I}nteractive
+  {P}aper.
+\newblock {\em ACM Trans. Comput.-Hum. Interact.}, Vol.~14, No.~4, pp.
+  18:1--18:27, January 2008.
+
+\bibitem[Li10a]{Li:2010:GST:1866029.1866044}
+Yang Li.
+\newblock Gesture {S}earch: {A} {T}ool for {F}ast {M}obile {D}ata {A}ccess.
+\newblock In {\em Proceedings of the 23Nd Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '10, pp. 87--96, New York, NY, USA,
+  2010. ACM.
+
+\bibitem[Li10b]{Li:2010:PFA:1753326.1753654}
 Yang Li.
 \newblock Protractor: {A} {F}ast and {A}ccurate {G}esture {R}ecognizer.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '10, pp. 2169--2172, New York, NY, USA, 2010. ACM.
+
+\bibitem[LKJ02]{Lundin:2002:SFD:646280.687684}
+Emilie Lundin, H{\aa}kan Kvarnstr\"{o}m, and Erland Jonsson.
+\newblock A {S}ynthetic {F}raud {D}ata {G}eneration {M}ethodology.
+\newblock In {\em Proceedings of the 4th International Conference on
+  Information and Communications Security}, ICICS '02, pp. 265--277, London,
+  UK, UK, 2002. Springer-Verlag.
+
+\bibitem[LL11]{Lu:2011:GAT:1978942.1978972}
+Hao L\"{u} and Yang Li.
+\newblock Gesture {A}vatar: {A} {T}echnique for {O}perating {M}obile {U}ser
+  {I}nterfaces {U}sing {G}estures.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '11, pp. 207--216, New York, NY, USA, 2011. ACM.
 
 \bibitem[LM93]{Landay:1993:EEU:259964.260123}
 James~A. Landay and Brad~A. Myers.
@@ -109,6 +189,14 @@ James Lin, Mark~W. Newman, Jason~I. Hong, and James~A. Landay.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '00, pp. 510--517, New York, NY, USA, 2000. ACM.
 
+\bibitem[MCvM97]{Moran:1997:PIT:263407.263508}
+Thomas~P. Moran, Patrick Chiu, and William van Melle.
+\newblock Pen-based {I}nteraction {T}echniques for {O}rganizing {M}aterial on
+  an {E}lectronic {W}hiteboard.
+\newblock In {\em Proceedings of the 10th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '97, pp. 45--54, New York, NY, USA,
+  1997. ACM.
+
 \bibitem[MMM{\etalchar{+}}97]{Myers:1997:AEN:262050.260628}
 Brad~A. Myers, Richard~G. McDaniel, Robert~C. Miller, Alan~S. Ferrency, Andrew
   Faulring, Bruce~D. Kyle, Andrew Mickish, Alex Klimovitski, and Patrick Doane.
@@ -117,17 +205,42 @@ Brad~A. Myers, Richard~G. McDaniel, Robert~C. Miller, Alan~S. Ferrency, Andrew
 \newblock {\em IEEE Transactions on Software Engineering}, Vol.~23, No.~6, pp.
   347--365, June 1997.
 
+\bibitem[NFC07]{conf/iccv/NavaratnamFC07}
+Ramanan Navaratnam, Andrew~W. Fitzgibbon, and Roberto Cipolla.
+\newblock The {J}oint {M}anifold {M}odel for {S}emi-supervised {M}ulti-valued
+  {R}egression.
+\newblock In {\em ICCV}, pp. 1--8. IEEE Computer Society, 2007.
+
+\bibitem[Per85]{Perlin:1985:IS:325165.325247}
+Ken Perlin.
+\newblock An {I}mage {S}ynthesizer.
+\newblock {\em SIGGRAPH Comput. Graph.}, Vol.~19, No.~3, pp. 287--296, July
+  1985.
+
 \bibitem[Pit91]{Pittman:1991:RHT:108844.108914}
 James~A. Pittman.
 \newblock Recognizing {H}andwritten {T}ext.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '91, pp. 271--275, New York, NY, USA, 1991. ACM.
 
+\bibitem[PJ09]{Park:2009:SFA:1464526.1465112}
+Hae-Sang Park and Chi-Hyuck Jun.
+\newblock A {S}imple and {F}ast {A}lgorithm for {K}-medoids {C}lustering.
+\newblock {\em Expert Syst. Appl.}, Vol.~36, No.~2, pp. 3336--3341, March 2009.
+
 \bibitem[PS00]{Plamondon:2000:OOH:331097.331275}
 R{\'e}jean Plamondon and Sargur~N. Srihari.
-\newblock On-line and off-line handwriting recognition: A comprehensive survey.
+\newblock On-{L}ine and {O}ff-{L}ine {H}andwriting {R}ecognition: {A}
+  {C}omprehensive {S}urvey.
 \newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, Vol.~22, No.~1, pp.
   63--84, January 2000.
+
+\bibitem[PTIL16]{Pittman:2016:FFA:2856767.2856808}
+Corey Pittman, Eugene~M. Taranta~II, and Joseph~J. LaViola, Jr.
+\newblock A \$-{F}amily {F}riendly {A}pproach to {P}rototype {S}election.
+\newblock In {\em Proceedings of the 21st International Conference on
+  Intelligent User Interfaces}, IUI '16, pp. 370--374, New York, NY, USA, 2016.
+  ACM.
 
 \bibitem[PTVF92]{Press:1992:NRC:148286}
 William~H. Press, Saul~A. Teukolsky, William~T. Vetterling, and Brian~P.
@@ -142,6 +255,12 @@ Marc Rettig.
 \newblock {\em Communications of the {A}{C}{M}}, Vol.~37, No.~4, pp. 21--27,
   April 1994.
 
+\bibitem[RLL11]{Ruiz:2011:UMG:1978942.1978971}
+Jaime Ruiz, Yang Li, and Edward Lank.
+\newblock User-defined {M}otion {G}estures for {M}obile {I}nteraction.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '11, pp. 197--206, New York, NY, USA, 2011. ACM.
+
 \bibitem[RSH11]{Reaver:2011:MQU:2021164.2021183}
 J.~Reaver, T.~F. Stahovich, and J.~Herold.
 \newblock How to {M}ake a {Q}uick\$: {U}sing {H}ierarchical {C}lustering to
@@ -149,6 +268,12 @@ J.~Reaver, T.~F. Stahovich, and J.~Herold.
 \newblock In {\em Proceedings of the Eighth Eurographics Symposium on
   Sketch-Based Interfaces and Modeling}, SBIM '11, pp. 103--108, New York, NY,
   USA, 2011. ACM.
+
+\bibitem[RSP12]{Rodriguez-Serrano:2012:SQH:2240326.2240755}
+Jose~A. Rodriguez-Serrano and Florent Perronnin.
+\newblock Synthesizing {Q}ueries for {H}andwritten {W}ord {I}mage {R}etrieval.
+\newblock {\em Pattern Recogn.}, Vol.~45, No.~9, pp. 3270--3276, September
+  2012.
 
 \bibitem[Rub91a]{Rubine:1991:SGE:127719.122753}
 Dean Rubine.
@@ -177,6 +302,19 @@ Tevfik~Metin Sezgin and Randall Davis.
   Intelligent User Interfaces}, IUI '05, pp. 281--283, New York, NY, USA, 2005.
   ACM.
 
+\bibitem[SFC{\etalchar{+}}11]{Shotton:2011:RHP:2191740.2192047}
+J.~Shotton, A.~Fitzgibbon, M.~Cook, T.~Sharp, M.~Finocchio, R.~Moore,
+  A.~Kipman, and A.~Blake.
+\newblock Real-time {H}uman {P}ose {R}ecognition in {P}arts from {S}ingle
+  {D}epth {I}mages.
+\newblock In {\em Proceedings of the 2011 IEEE Conference on Computer Vision
+  and Pattern Recognition}, CVPR '11, pp. 1297--1304, Washington, DC, USA,
+  2011. IEEE Computer Society.
+
+\bibitem[Sig06]{SigmaLognormal}
+A multi-level representation paradigm for handwriting stroke generation.
+\newblock {\em Human movement science 25, 4}, pp. 586--607, 2006.
+
 \bibitem[SMSJ{\etalchar{+}}15]{Shimon:2015:EUB:2785830.2785890}
 Shaikh Shawon~Arefin Shimon, Sarah Morrison-Smith, Noah John, Ghazal Fahimi,
   and Jaime Ruiz.
@@ -200,13 +338,36 @@ Eugene~M. Taranta, II and Joseph~J. LaViola, Jr.
   '15, pp. 195--202, Toronto, Ont., Canada, Canada, 2015. Canadian Information
   Processing Society.
 
+\bibitem[TMPL16]{Taranta:2016:RPA:2984511.2984525}
+Eugene~M. Taranta, II, Mehran Maghoumi, Corey~R. Pittman, and Joseph~J.
+  LaViola, Jr.
+\newblock A {R}apid {P}rototyping {A}pproach to {S}ynthetic {D}ata {G}eneration
+  for {I}mproved 2{D} {G}esture {R}ecognition.
+\newblock In {\em Proceedings of the 29th Annual Symposium on User Interface
+  Software and Technology}, UIST '16, pp. 873--885, New York, NY, USA, 2016.
+  ACM.
+
+\bibitem[TQXW13]{Tian_kinwrite:handwriting-based}
+Jing Tian, Chengzhang Qu, Wenyuan Xu, and Song Wang.
+\newblock Kin{W}rite: {H}andwriting-{B}ased {A}uthentication {U}sing {K}inect.
+\newblock In {\em Proceedings of the 20th Annual Network and Distributed System
+  Security Symposium}, 2013.
+
 \bibitem[TSW90]{Tappert:1990:SAO:83123.83137}
 C.~C. Tappert, C.~Y. Suen, and T.~Wakahara.
-\newblock The state of the art in online handwriting recognition.
+\newblock The {S}tate of the {A}rt in {O}nline {H}andwriting {R}ecognition.
 \newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, Vol.~12, No.~8, pp.
   787--808, August 1990.
 
-\bibitem[Vat12]{Vatavu:2012:UGF:2325616.2325626}
+\bibitem[Vat12a]{Vatavu:2012:OAF:2166966.2167022}
+Radu-Daniel Vatavu.
+\newblock 1{F}: {O}ne {A}ccessory {F}eature {D}esign for {G}esture
+  {R}ecognizers.
+\newblock In {\em Proceedings of the 2012 ACM International Conference on
+  Intelligent User Interfaces}, IUI '12, pp. 297--300, New York, NY, USA, 2012.
+  ACM.
+
+\bibitem[Vat12b]{Vatavu:2012:UGF:2325616.2325626}
 Radu-Daniel Vatavu.
 \newblock User-defined {G}estures for {F}ree-hand {T}{V} {C}ontrol.
 \newblock In {\em Proceedings of the 10th European Conference on Interactive tv
@@ -228,7 +389,7 @@ Jacob~O. Wobbrock, Meredith~Ringel Morris, and Andrew~D. Wilson.
 
 \bibitem[WS03]{Wilson:2003:XUI:642611.642706}
 Andrew Wilson and Steven Shafer.
-\newblock Xwand: Ui for intelligent spaces.
+\newblock X{W}and: {U}{I} for {I}ntelligent {S}paces.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '03, pp. 545--552, New York, NY, USA, 2003. ACM.
 
@@ -240,10 +401,23 @@ Jacob~O. Wobbrock, Andrew~D. Wilson, and Yang Li.
   Interface Software and Technology}, UIST '07, pp. 159--168, New York, NY,
   USA, 2007. ACM.
 
+\bibitem[ZBLF08]{Zeleznik:2008:LCD:1449715.1449741}
+Robert~C. Zeleznik, Andrew Bragdon, Chu-Chi Liu, and Andrew Forsberg.
+\newblock Lineogrammer: {C}reating {D}iagrams by {D}rawing.
+\newblock In {\em Proceedings of the 21st Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '08, pp. 161--170, New York, NY,
+  USA, 2008. ACM.
+
 \bibitem[ZK03]{Zhai:2003:SWS:642611.642630}
 Shumin Zhai and Per-Ola Kristensson.
-\newblock Shorthand writing on stylus keyboard.
+\newblock Shorthand {W}riting on {S}tylus {K}eyboard.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '03, pp. 97--104, New York, NY, USA, 2003. ACM.
+
+\bibitem[俊之97]{110003743975}
+俊之増井.
+\newblock 予測/例示インタフェースの研究動向 (特集
+  インタラクティブソフトウェア).
+\newblock コンピュータソフトウェア, Vol.~14, No.~3, pp. 220--235, may 1997.
 
 \end{thebibliography}

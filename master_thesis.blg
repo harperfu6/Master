@@ -3,52 +3,58 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master_thesis.aux
 The style file: jalpha.bst
 Database file #1: master_thesis.bib
-Repeated entry---line 1315 of file master_thesis.bib
- : @article{Tappert:1982:CSR:1664966.1664979
- :                                          ,
+Repeated entry---line 1809 of file master_thesis.bib
+ : @inproceedings{Ruiz:2011:UMG:1978942.1978971
+ :                                             ,
 I'm skipping whatever remains of this entry
+A bad cross reference---entry "conf/iccv/NavaratnamFC07"
+refers to entry "conf/iccv/2007", which doesn't exist
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "conf/iccv/2007"
+Warning--to sort, need author or key in SigmaLognormal
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty booktitle in Anderson2004HiddenMM
-You've used 35 entries,
+Warning--empty author in SigmaLognormal
+You've used 60 entries,
             3087 wiz_defined-function locations,
-            922 strings with 13574 characters,
-and the built_in function-call counts, 21040 in all, are:
-= -- 2087
-> -- 686
-< -- 59
-+ -- 249
-- -- 242
-* -- 1271
-:= -- 2795
-add.period$ -- 128
-call.type$ -- 35
-change.case$ -- 225
-chr.to.int$ -- 34
-cite$ -- 36
-duplicate$ -- 1113
-empty$ -- 1664
-format.name$ -- 369
-if$ -- 4880
-int.to.chr$ -- 2
+            1090 strings with 20047 characters,
+and the built_in function-call counts, 36520 in all, are:
+= -- 3606
+> -- 1253
+< -- 95
++ -- 470
+- -- 452
+* -- 2227
+:= -- 4863
+add.period$ -- 218
+call.type$ -- 60
+change.case$ -- 400
+chr.to.int$ -- 57
+cite$ -- 64
+duplicate$ -- 1900
+empty$ -- 2857
+format.name$ -- 678
+if$ -- 8449
+int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 36
-newline$ -- 179
-num.names$ -- 105
-pop$ -- 276
+missing$ -- 60
+newline$ -- 302
+num.names$ -- 176
+pop$ -- 495
 preamble$ -- 1
-purify$ -- 261
+purify$ -- 461
 quote$ -- 0
-skip$ -- 1157
+skip$ -- 1980
 stack$ -- 0
-substring$ -- 1270
-swap$ -- 341
-text.length$ -- 59
-text.prefix$ -- 8
+substring$ -- 2178
+swap$ -- 583
+text.length$ -- 95
+text.prefix$ -- 12
 top$ -- 0
-type$ -- 276
-warning$ -- 1
-while$ -- 196
-width$ -- 40
-write$ -- 525
-is.kanji.str$ -- 434
-(There was 1 error message)
+type$ -- 476
+warning$ -- 3
+while$ -- 331
+width$ -- 68
+write$ -- 891
+is.kanji.str$ -- 755
+(There were 2 error messages)

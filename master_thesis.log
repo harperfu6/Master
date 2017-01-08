@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  7 JAN 2017 16:38
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  8 JAN 2017 12:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -109,7 +109,35 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 (./sie-jp-euc.sty
 \vspacetitle=\dimen125
 \vspaceabstract=\dimen126
-) (./master_thesis.aux)
+) (./master_thesis.aux
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+
+LaTeX Warning: Label `fig:rare_rec' multiply defined.
+
+)
 \openout1 = `master_thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
@@ -128,11 +156,10 @@ LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
- (I search kanjifont definition file:
-. . ) (I search font definition file: . . . . . . . )
+ (I search kanjifont definition file: . . ) (I search font definition file: .
+. . . . . . )
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 69.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -188,101 +215,16 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
 
-LaTeX Warning: Citation `Rettig:1994:PTF:175276.175288' on page 1 undefined on 
-input line 6.
-
-
-LaTeX Warning: Citation `Hong00constructingfinite' on page 1 undefined on input
- line 6.
-
-
-LaTeX Warning: Citation `Anderson2004HiddenMM' on page 1 undefined on input lin
-e 6.
-
-
-LaTeX Warning: Citation `Sezgin:2005:HES:1040830.1040899' on page 1 undefined o
-n input line 6.
-
-
-LaTeX Warning: Citation `Cao:2005:EOA:1089508.1089540' on page 1 undefined on i
-nput line 6.
-
-
-LaTeX Warning: Citation `Pittman:1991:RHT:108844.108914' on page 1 undefined on
- input line 6.
-
-
-LaTeX Warning: Citation `Cho:2006:NGR:1711617.1711649' on page 1 undefined on i
-nput line 6.
-
-
-LaTeX Warning: Citation `Rubine:1991:SGE:127719.122753' on page 1 undefined on 
-input line 6.
-
-
-LaTeX Warning: Citation `Anthony:2010:LMR:1839214.1839258' on page 1 undefined 
-on input line 6.
-
-
-LaTeX Warning: Citation `Wobbrock:2007:GWL:1294211.1294238' on page 1 undefined
- on input line 8.
-
-
-LaTeX Warning: Citation `Anthony:2010:LMR:1839214.1839258' on page 1 undefined 
-on input line 9.
-
-
-LaTeX Warning: Citation `Reaver:2011:MQU:2021164.2021183' on page 1 undefined o
-n input line 9.
-
-
-LaTeX Warning: Citation `Li:2010:PFA:1753326.1753654' on page 1 undefined on in
-put line 9.
-
-
-LaTeX Warning: Citation `Anthony:2012:NFA:2305276.2305296' on page 1 undefined 
-on input line 9.
-
-
-LaTeX Warning: Citation `Herold:2012:CRF:2331067.2331074' on page 1 undefined o
-n input line 9.
-
-
-LaTeX Warning: Citation `Vatavu:2012:GPC:2388676.2388732' on page 1 undefined o
-n input line 9.
-
-
-LaTeX Warning: Citation `Taranta:2015:PPB:2788890.2788925' on page 1 undefined 
-on input line 9.
-
-
-LaTeX Warning: Citation `Rubine:1991:SGE:122718.122753' on page 1 undefined on 
-input line 12.
-
-
-LaTeX Warning: Reference `fig:examples_V' on page 1 undefined on input line 12.
-
+LaTeX Warning: Citation `' on page 1 undefined on input line 9.
 
 [1
 
 ]
 File: img/examples_V.eps Graphic file (type eps)
- <img/examples_V.eps>
-
-LaTeX Warning: Citation `Tappert:1982:CSR:1664966.1664979' on page 2 undefined 
-on input line 22.
-
-
-LaTeX Warning: Citation `Salvador:2007:TAD:1367985.1367993' on page 2 undefined
- on input line 22.
-
-
-LaTeX Warning: Reference `fig:examples_V' on page 2 undefined on input line 24.
-
-
-[2] [3]
+ <img/examples_V.eps> [2] [3]
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 43.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
@@ -290,188 +232,26 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 )
 (./02_relatedworks.tex [4]
 第 2 章
-
-LaTeX Warning: Citation `Hong00constructingfinite' on page 5 undefined on input
- line 7.
-
-
-LaTeX Warning: Citation `Anderson2004HiddenMM' on page 5 undefined on input lin
-e 8.
-
-
-LaTeX Warning: Citation `Sezgin:2005:HES:1040830.1040899' on page 5 undefined o
-n input line 8.
-
-
-LaTeX Warning: Citation `Cao:2005:EOA:1089508.1089540' on page 5 undefined on i
-nput line 8.
-
-
-LaTeX Warning: Citation `Pittman:1991:RHT:108844.108914' on page 5 undefined on
- input line 9.
-
-
-LaTeX Warning: Citation `Cho:2006:NGR:1711617.1711649' on page 5 undefined on i
-nput line 10.
-
-
-LaTeX Warning: Citation `Rubine:1991:SGE:127719.122753' on page 5 undefined on 
-input line 10.
-
-
-LaTeX Warning: Citation `Anthony:2010:LMR:1839214.1839258' on page 5 undefined 
-on input line 11.
-
-
-LaTeX Warning: Citation `Wilson:2003:XUI:642611.642706' on page 5 undefined on 
-input line 11.
-
-
-LaTeX Warning: Citation `Kara:2005:ITS:1652319.1652712' on page 5 undefined on 
-input line 12.
-
-
-LaTeX Warning: Citation `Kristensson:2004:SLV:1029632.1029640' on page 5 undefi
-ned on input line 12.
-
 [5
 
-]
-
-LaTeX Warning: Citation `Rubine:1991:SGE:122718.122753' on page 6 undefined on 
-input line 17.
-
-
-LaTeX Warning: Citation `Tappert:1982:CSR:1664966.1664979' on page 6 undefined 
-on input line 17.
-
-
-LaTeX Warning: Citation `Salvador:2007:TAD:1367985.1367993' on page 6 undefined
- on input line 17.
-
-
-LaTeX Warning: Citation `Hong:2000:STI:354401.354412' on page 6 undefined on in
-put line 21.
-
-
-LaTeX Warning: Citation `Henry:1990:IGS:97924.97938' on page 6 undefined on inp
-ut line 22.
-
-
-LaTeX Warning: Citation `Landay:1993:EEU:259964.260123' on page 6 undefined on 
-input line 22.
-
-
-LaTeX Warning: Citation `Myers:1997:AEN:262050.260628' on page 6 undefined on i
-nput line 23.
-
-
-LaTeX Warning: Citation `Wobbrock:2007:GWL:1294211.1294238' on page 6 undefined
- on input line 30.
-
-
-LaTeX Warning: Citation `Anthony:2010:LMR:1839214.1839258' on page 6 undefined 
-on input line 33.
-
-
-LaTeX Warning: Citation `Reaver:2011:MQU:2021164.2021183' on page 6 undefined o
-n input line 34.
-
-
-LaTeX Warning: Citation `Li:2010:PFA:1753326.1753654' on page 6 undefined on in
-put line 35.
-
-
-LaTeX Warning: Citation `Press:1992:NRC:148286' on page 6 undefined on input li
-ne 35.
-
-
-LaTeX Warning: Citation `Anthony:2012:NFA:2305276.2305296' on page 6 undefined 
-on input line 36.
-
-
-LaTeX Warning: Citation `Herold:2012:CRF:2331067.2331074' on page 6 undefined o
-n input line 37.
-
-
-LaTeX Warning: Citation `Vatavu:2012:GPC:2388676.2388732' on page 6 undefined o
-n input line 38.
-
-
-LaTeX Warning: Citation `Taranta:2015:PPB:2788890.2788925' on page 6 undefined 
-on input line 39.
-
-[6]) (./03_elicitation.tex [7] [8]
+] [6] [7] [8]) (./03_elicitation.tex [9]
 第 3 章
-
-LaTeX Warning: Citation `Hong:2000:STI:354401.354412' on page 9 undefined on in
-put line 5.
-
-
-LaTeX Warning: Citation `Landay:1993:EEU:259964.260123' on page 9 undefined on 
-input line 5.
-
-
-LaTeX Warning: Citation `Lin:2000:DFT:332040.332486' on page 9 undefined on inp
-ut line 5.
-
-
-LaTeX Warning: Reference `fig:stroke_1' on page 9 undefined on input line 5.
-
-
-LaTeX Warning: Citation `Vatavu:2012:UGF:2325616.2325626' on page 9 undefined o
-n input line 6.
-
-
-LaTeX Warning: Citation `Bragdon:2011:EAT:1978942.1979000' on page 9 undefined 
-on input line 6.
-
-
-LaTeX Warning: Citation `Wobbrock:2009:UGS:1518701.1518866' on page 9 undefined
- on input line 6.
-
-
-LaTeX Warning: Citation `Shimon:2015:EUB:2785830.2785890' on page 9 undefined o
-n input line 6.
-
 File: img/stroke_1.eps Graphic file (type eps)
 <img/stroke_1.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9
+[10
 
-]
-
-LaTeX Warning: Reference `fig:elicetated_strokes' on page 10 undefined on input
- line 49.
-
-[10]
-
-LaTeX Warning: Reference `fig:elicetated_strokes' on page 11 undefined on input
- line 51.
-
+] [11]
 File: img/elicetated_strokes.eps Graphic file (type eps)
-<img/elicetated_strokes.eps>
+ <img/elicetated_strokes.eps>
 
 LaTeX Warning: Float too large for page by 1.3249pt on input line 62.
 
-
-LaTeX Warning: Reference `fig:elicetated_strokes' on page 11 undefined on input
- line 64.
-
-) (./04_onedollar.tex [11] [12]
+) (./04_onedollar.tex [12] [13]
 第 4 章
-
-LaTeX Warning: Reference `fig:strokes' on page 13 undefined on input line 5.
-
-
-LaTeX Warning: Reference `fig:strokes' on page 13 undefined on input line 9.
-
-
-LaTeX Warning: Reference `fig:stroke_1' on page 13 undefined on input line 20.
-
-[13
+[14
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
@@ -480,183 +260,42 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
-
-
-LaTeX Warning: Reference `fig:strokes' on page 14 undefined on input line 34.
-
 File: img/strokes.eps Graphic file (type eps)
-<img/strokes.eps>
-
-LaTeX Warning: Reference `fig:resample' on page 14 undefined on input line 43.
-
-[14]
+ <img/strokes.eps> [15]
 File: img/resample.eps Graphic file (type eps)
  <img/resample.eps>
-
-LaTeX Warning: Citation `Plamondon:2000:OOH:331097.331275' on page 15 undefined
- on input line 52.
-
-
-LaTeX Warning: Citation `Tappert:1990:SAO:83123.83137' on page 15 undefined on 
-input line 52.
-
-
-LaTeX Warning: Citation `Kristensson:2004:SLV:1029632.1029640' on page 15 undef
-ined on input line 52.
-
-
-LaTeX Warning: Citation `Zhai:2003:SWS:642611.642630' on page 15 undefined on i
-nput line 52.
-
-
-LaTeX Warning: Citation `Tappert:1982:CSR:1664966.1664979' on page 15 undefined
- on input line 52.
-
-
-LaTeX Warning: Reference `fig:orientation' on page 15 undefined on input line 6
-2.
-
 File: img/orientation.eps Graphic file (type eps)
-<img/orientation.eps>
-
-LaTeX Warning: Reference `fig:size' on page 15 undefined on input line 71.
-
+ <img/orientation.eps>
 File: img/size.eps Graphic file (type eps)
+
 <img/size.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:position' on page 15 undefined on input line 81.
-
-[15]
-File: img/position.eps Graphic file (type eps)
- <img/position.eps>
-
-LaTeX Warning: Citation `Kara:2005:ITS:1652319.1652712' on page 16 undefined on
- input line 91.
-
-
-LaTeX Warning: Citation `Press:1992:NRC:148286' on page 16 undefined on input l
-ine 91.
-
-
-LaTeX Warning: Reference `fig:golden' on page 16 undefined on input line 94.
-
 [16]
+File: img/position.eps Graphic file (type eps)
+ <img/position.eps> [17]
 File: img/golden.eps Graphic file (type eps)
  <img/golden.eps>
-
-LaTeX Warning: Reference `fig:onedoller_flow' on page 17 undefined on input lin
-e 109.
-
 File: img/onedoller_flow.eps Graphic file (type eps)
-<img/onedoller_flow.eps>
+ <img/onedoller_flow.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17]
-
-LaTeX Warning: Reference `fig:line' on page 18 undefined on input line 136.
-
-[18]
+[18] [19]
 File: img/line.eps Graphic file (type eps)
- <img/line.eps>
-
-LaTeX Warning: Citation `Rubine:1991:SGE:122718.122753' on page 19 undefined on
- input line 145.
-
-) (./05_vdollar.tex [19]
+ <img/line.eps>) (./05_vdollar.tex [20]
 第 5 章
-
-LaTeX Warning: Reference `fig:stroke_1' on page 20 undefined on input line 16.
-
-
-LaTeX Warning: Reference `fig:examples_V' on page 20 undefined on input line 22
-.
-
-[20
+[21
 
 ]
-
-LaTeX Warning: Reference `fig:gesture_group' on page 21 undefined on input line
- 46.
-
-
-LaTeX Warning: Reference `fig:examples_V' on page 21 undefined on input line 46
-.
-
 File: img/gesture_group.eps Graphic file (type eps)
-<img/gesture_group.eps> [21]
-
-LaTeX Warning: Reference `fig:speed_reason' on page 22 undefined on input line 
-67.
-
+ <img/gesture_group.eps> [22]
 File: img/speed_reason.eps Graphic file (type eps)
-<img/speed_reason.eps> [22]
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 80.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 81.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 81.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 83.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 84.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 84.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 86.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 87.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 87.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 23 undefined on input 
-line 89.
-
-[23]
+ <img/speed_reason.eps> [23] [24]
 File: img/cannot_recognized.eps Graphic file (type eps)
- <img/cannot_recognized.eps>
 
-LaTeX Warning: Reference `fig:cannot_recognized' on page 24 undefined on input 
-line 108.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 24 undefined on input 
-line 109.
-
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 24 undefined on input 
-line 111.
-
-[24]
-
-LaTeX Warning: Reference `fig:cannot_recognized' on page 25 undefined on input 
-line 113.
-
-
-LaTeX Warning: Reference `fig:v_size' on page 25 undefined on input line 128.
-
+<img/cannot_recognized.eps> [25]
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
 (Font)              using `JT1/mc/m/n' instead on input line 129.
@@ -670,116 +309,47 @@ File: img/v_size.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:v_orientation' on page 25 undefined on input line
- 150.
-
-[25]
+[26]
 File: img/v_orientation.eps Graphic file (type eps)
  <img/v_orientation.eps>
-
-LaTeX Warning: Reference `fig:v_position' on page 26 undefined on input line 16
-8.
-
 
 LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 169.
 
 
 File: img/v_position.eps Graphic file (type eps)
-<img/v_position.eps> [26]
-
-LaTeX Warning: Reference `fig:same_gesture' on page 27 undefined on input line 
-190.
-
-
-LaTeX Warning: Reference `fig:same_gesture' on page 27 undefined on input line 
-193.
-
+<img/v_position.eps> [27]
 File: img/same_gesture.eps Graphic file (type eps)
-<img/same_gesture.eps>
+ <img/same_gesture.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:same_gesture' on page 27 undefined on input line 
-203.
-
-
-LaTeX Warning: Reference `fig:make_gesture_group' on page 27 undefined on input
- line 213.
-
-[27]
+[28]
 File: img/make_gesture_group.eps Graphic file (type eps)
- <img/make_gesture_group.eps> [28]
-
-LaTeX Warning: Reference `fig:group_similarity' on page 29 undefined on input l
-ine 243.
-
-
-LaTeX Warning: Reference `fig:group_similarity' on page 29 undefined on input l
-ine 243.
-
-
-LaTeX Warning: Reference `fig:group_similarity' on page 29 undefined on input l
-ine 243.
-
-
-LaTeX Warning: Reference `fig:group_similarity' on page 29 undefined on input l
-ine 243.
-
+ <img/make_gesture_group.eps> [29]
 File: img/group_similarity.eps Graphic file (type eps)
-<img/group_similarity.eps>
+ <img/group_similarity.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[29] [30]
-
-LaTeX Warning: Reference `fig:screenshot' on page 31 undefined on input line 30
-1.
-
+[30] [31]
 File: img/screenshot.eps Graphic file (type eps)
-<img/screenshot.eps>
-
-LaTeX Warning: Reference `fig:screenshot' on page 31 undefined on input line 31
-6.
-
-
-LaTeX Warning: Reference `fig:screenshot' on page 31 undefined on input line 31
-8.
-
-[31] [32]
+ <img/screenshot.eps> [32] [33]
 File: img/pre_rec.eps Graphic file (type eps)
- <img/pre_rec.eps> [33]
+ <img/pre_rec.eps> [34]
 File: img/pre_speed.eps Graphic file (type eps)
- <img/pre_speed.eps> [34]
+
+<img/pre_speed.eps> [35]
 File: img/pre_diff.eps Graphic file (type eps)
  <img/pre_diff.eps>
 File: img/pre_sim.eps Graphic file (type eps)
-
-<img/pre_sim.eps> [35]
+ <img/pre_sim.eps> [36]
 File: img/pre_min.eps Graphic file (type eps)
- <img/pre_min.eps>
+
+<img/pre_min.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[36] [37]
-
-LaTeX Warning: Reference `fig:group_similarity' on page 38 undefined on input l
-ine 399.
-
-
-LaTeX Warning: Reference `fig:group_similarity' on page 38 undefined on input l
-ine 401.
-
-
-LaTeX Warning: Reference `fig:weight_method1' on page 38 undefined on input lin
-e 426.
-
-
-LaTeX Warning: Reference `fig:weight_method2' on page 38 undefined on input lin
-e 426.
-
-[38]
+[37] [38] [39]
 File: img/weight_method1.eps Graphic file (type eps)
  <img/weight_method1.eps>
 File: img/weight_method2.eps Graphic file (type eps)
@@ -787,19 +357,7 @@ File: img/weight_method2.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:weight_size' on page 39 undefined on input line 4
-54.
-
-
-LaTeX Warning: Reference `fig:weight_orientation' on page 39 undefined on input
- line 455.
-
-
-LaTeX Warning: Reference `fig:weight_position' on page 39 undefined on input li
-ne 456.
-
-[39]
+[40]
 File: img/weight_size.eps Graphic file (type eps)
  <img/weight_size.eps>
 
@@ -815,23 +373,7 @@ File: img/weight_position.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:weight_size' on page 40 undefined on input line 4
-96.
-
-
-LaTeX Warning: Reference `fig:weight_position' on page 40 undefined on input li
-ne 496.
-
-
-LaTeX Warning: Reference `fig:weight_size' on page 40 undefined on input line 5
-03.
-
-
-LaTeX Warning: Reference `fig:weight_position' on page 40 undefined on input li
-ne 503.
-
-[40]) (./06_evaluation.tex [41] [42] [43] [44]
+[41]) (./06_evaluation.tex [42] [43] [44] [45]
 第 6 章
 File: img/rec_rate.eps Graphic file (type eps)
 <img/rec_rate.eps>
@@ -839,7 +381,7 @@ File: img/rec_rate.eps Graphic file (type eps)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: img/rec_speed.eps Graphic file (type eps)
-<img/rec_speed.eps> [45
+<img/rec_speed.eps> [46
 
 ]
 
@@ -850,10 +392,7 @@ File: img/rec_speed_dtw.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:rec_diff' on page 46 undefined on input line 42.
-
-[46]
+[47]
 File: img/rec_diff.eps Graphic file (type eps)
  <img/rec_diff.eps>
 
@@ -865,60 +404,35 @@ File: img/rec_sim.eps Graphic file (type eps)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: img/rec_min.eps Graphic file (type eps)
-<img/rec_min.eps> [47]
+<img/rec_min.eps> [48]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[48] [49]) (./07_application.tex [50]
+[49] [50]) (./07_application.tex [51]
 第 7 章
-
-LaTeX Warning: Reference `fig:flow' on page 51 undefined on input line 7.
-
-
-LaTeX Warning: Reference `fig:flow' on page 51 undefined on input line 8.
-
-
-LaTeX Warning: Reference `fig:flow' on page 51 undefined on input line 9.
-
 File: img/flow.eps Graphic file (type eps)
 <img/flow.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `fig:application' on page 51 undefined on input line 1
-9.
-
-
-LaTeX Warning: Reference `fig:application' on page 51 undefined on input line 2
-0.
-
-
-LaTeX Warning: Reference `fig:application' on page 51 undefined on input line 2
-0.
 
 File: img/application.eps Graphic file (type eps)
 <img/application.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./08_discussion.tex [51
+) (./08_discussion.tex [52
 
-] [52] [53]
+] [53] [54]
 第 8 章
-[54
+[55
 
 ]
-
-LaTeX Warning: Reference `fig:different_direction' on page 55 undefined on inpu
-t line 20.
-
 File: img/different_direction.eps Graphic file (type eps)
-<img/different_direction.eps> [55]) (./09_conclusion.tex [56]
+ <img/different_direction.eps> [56]) (./09_conclusion.tex [57]
 第 9 章
-) [57
+) [58
 
-] [58
+] [59
 
 ] (./master_thesis.bbl
 
@@ -929,9 +443,15 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 14.
 
-[59
+[60
 
-] [60] [61]) [62] (./master_thesis.aux)
+]
+Underfull \hbox (badness 1210) in paragraph at lines 77--83
+[]\OT1/ptm/m/n/10.95 B. Gatos, T. Konidaris, K. Ntzios, I. Pratikakis, and S. J
+. Peran-to-nis.  A
+ []
+
+[61] [62] [63] [64] [65]) [66] (./master_thesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -939,16 +459,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1477 strings out of 493777
- 20243 string characters out of 6151334
+ 1507 strings out of 493777
+ 21047 string characters out of 6151334
  83151 words of memory out of 5000000
- 4892 multiletter control sequences out of 15000+600000
+ 4922 multiletter control sequences out of 15000+600000
  19911 words of font info for 68 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 32i,8n,21p,1532b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,8n,21p,1506b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on master_thesis.dvi (69 pages, 224152 bytes).
+Output written on master_thesis.dvi (73 pages, 243492 bytes).
