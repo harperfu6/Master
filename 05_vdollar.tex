@@ -49,7 +49,7 @@
 	\begin{center}
 		\includegraphics [width=0.7\hsize ]{img/gesture_group.eps}
 	\end{center}
-	\caption{形状と書き順が同じ手書きジェスチャの学習データが集まった，ジェスチャグループの例}
+	\caption{形状と書き順が同じ手書きジェスチャの学習データが集まった，ジェスチャグループの例．}
 	\label{fig:gesture_group}
 \end{figure}
 
@@ -92,7 +92,7 @@
 	\begin{center}
 		\includegraphics [width=0.8\hsize ]{img/cannot_recognized.eps}
 	\end{center}
-	\caption{大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例}
+	\caption{大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例．}
 	\label{fig:cannot_recognized}
 \end{figure}
 
@@ -132,7 +132,7 @@
 	\begin{center}
 		\includegraphics [width=0.45\hsize ]{img/v_size.eps}
 	\end{center}
-	\caption{大きさの定義}
+	\caption{大きさの定義．}
 	\label{fig:v_size}
 \end{figure}
 
@@ -154,7 +154,7 @@ S_\textit{s} = \left \{
 	\begin{center}
 		\includegraphics [width=0.6\hsize ]{img/v_orientation.eps}
 	\end{center}
-	\caption{向きの定義}
+	\caption{向きの定義．}
 	\label{fig:v_orientation}
 \end{figure}
 
@@ -172,7 +172,7 @@ S_\textit{o} = 1 - \frac{|\theta - \sigma|}{\pi}
 	\begin{center}
 		\includegraphics [width=0.6\hsize ]{img/v_position.eps}
 	\end{center}
-	\caption{位置の定義}
+	\caption{位置の定義．}
 	\label{fig:v_position}
 \end{figure}
 
@@ -229,7 +229,7 @@ S_\textit{p} = 1 - \frac{\sqrt{(x - x')^2 + (y - y')^2}}{\sqrt{W\!idt\!h^2 * H\!
 	\begin{center}
 		\includegraphics [width=0.9\hsize ]{img/make_gesture_group.eps}
 	\end{center}
-	\caption{学習データを新たに追加する場面の例}
+	\caption{学習データを新たに追加する場面の例．}
 	\label{fig:make_gesture_group}
 \end{figure}
 
@@ -302,7 +302,7 @@ S_\textit{final} = \frac{S_\textit{cs} \times α_\textit{s} + S_\textit{co} \tim
 被験者は，第3章のユーザ調査において協力してもらった6名である~(男性6名，21〜27歳~(平均23.8歳)，全員右利き)．
 
 \subsection{実験機器}
-実験には，入力端末としてiPhone5を用い，実験における入力領域は1.94'' × 3.18''であり，解像度は640 × 1036である~(図\ref{fig:screenshot}における緑色の部分)．
+実験には，入力端末としてiPhone5を用いた．実験における入力領域は1.94'' × 3.18''であり，解像度は640 × 1036である~(図\ref{fig:screenshot}における緑色の部分)．
 
 \begin{figure}[!h]
 \centering
@@ -315,7 +315,7 @@ S_\textit{final} = \frac{S_\textit{cs} \times α_\textit{s} + S_\textit{co} \tim
 \subsection{実験手順}
 \subsubsection{ジェスチャの取得}
 我々はまず，被験者に実験の目的を説明した．
-その後，ユーザ調査において記入してもらった紙を見ながら，自身が入力したそれぞれのジェスチャを入力するよう指示した．
+その後，ユーザ調査において記入した手書きジェスチャのうち抜粋された手書きジェスチャについて，手書きジェスチャが記入された紙を見ながら，自身が入力したそれぞれのジェスチャを入力するよう指示した．
 この，それぞれの被験者ごとのジェスチャを``ジェスチャセット''とする．
 ジェスチャは図\ref{fig:screenshot}における緑色の領域部分にジェスチャを入力するよう指示した．
 その際，そのジェスチャを入力するときの姿勢が紙に書かれているため，それに従い入力するよう指示した．
@@ -347,7 +347,7 @@ S_\textit{final} = \frac{S_\textit{cs} \times α_\textit{s} + S_\textit{co} \tim
 \begin{figure}[!h]
 \centering
 \includegraphics[width=0.9\columnwidth]{img/pre_rec.eps}
-\caption{各手法における，被験者ごとの認識率の平均}
+\caption{各手法における，被験者ごとの認識率の平均．}
 \label{fig:rare_rec}
 \end{figure}
 
@@ -359,7 +359,7 @@ S_\textit{final} = \frac{S_\textit{cs} \times α_\textit{s} + S_\textit{co} \tim
 \begin{figure}[!h]
 \centering
 \includegraphics[width=0.9\columnwidth]{img/pre_speed.eps}
-\caption{各手法における，被験者ごとの認識速度の平均}
+\caption{各手法における，被験者ごとの認識速度の平均．}
 \label{fig:rare_speed}
 \end{figure}
 
@@ -371,7 +371,7 @@ N-best Listの1番目と2番目のスコアの差は，リサンプリングの�
 \begin{figure}[!h]
 \centering
 \includegraphics[width=0.9\columnwidth]{img/pre_diff.eps}
-\caption{各手法における，被験者ごとのN-best Listの1番目と2番目のスコア差の平均}
+\caption{各手法における，被験者ごとのN-best Listの1番目と2番目のスコア差の平均．}
 \label{fig:rare_diff}
 \end{figure}
 
@@ -382,7 +382,7 @@ N-best Listの1番目と2番目のスコアの差は，リサンプリングの�
 \begin{figure}[!h]
 \centering
 \includegraphics[width=0.9\columnwidth]{img/pre_sim.eps}
-\caption{各手法における，被験者ごとのジェスチャが正しく認識された時の類似度の平均}
+\caption{各手法における，被験者ごとのジェスチャが正しく認識された時の類似度の平均．}
 \label{fig:rare_sim}
 \end{figure}
 
@@ -394,7 +394,7 @@ N-best Listの1番目と2番目のスコアの差は，リサンプリングの�
 \begin{figure}[!h]
 \centering
 \includegraphics[width=0.9\columnwidth]{img/pre_min.eps}
-\caption{各手法における，被験者ごとのジェスチャが正しく認識された時の類似度の最小値の平均}
+\caption{各手法における，被験者ごとのジェスチャが正しく認識された時の類似度の最小値の平均．}
 \label{fig:rare_min}
 \end{figure}
 
@@ -449,7 +449,7 @@ S_\textit{final} = S_\textit{cs} \times W_\textit{s} + S_\textit{co} \times W_\t
 	\begin{center}
 		\includegraphics [width=0.8\hsize ]{img/weight_method2.eps}
 	\end{center}
-	\caption{条件を満たす重みが決定されるまでの手順}
+	\caption{条件を満たす重みが決定されるまでの手順．}
 	\label{fig:weight_method1}
 \end{figure}
 
@@ -457,7 +457,7 @@ S_\textit{final} = S_\textit{cs} \times W_\textit{s} + S_\textit{co} \times W_\t
 	\begin{center}
 		\includegraphics [width=0.8\hsize ]{img/weight_method1.eps}
 	\end{center}
-	\caption{条件を満たさない重みが決定されるまでの手順}
+	\caption{条件を満たさない重みが決定されるまでの手順．}
 	\label{fig:weight_method2}
 \end{figure}
 
@@ -482,14 +482,14 @@ S_\textit{final} = S_\textit{cs} \times W_\textit{s} + S_\textit{co} \times W_\t
 \begin{figure}[!h]
 \centering
 \includegraphics[width=0.7\columnwidth]{img/weight_orientation.eps}
-\caption{ジェスチャグループ内の学習データ間の類似度と向きの重みの関係の被験者ごとの結果}
+\caption{ジェスチャグループ内の学習データ間の類似度と向きの重みの関係の被験者ごとの結果．}
 \label{fig:weight_orientation}
 \end{figure}
 
 \begin{figure}[!h]
 \centering
 \includegraphics[width=0.7\columnwidth]{img/weight_position.eps}
-\caption{ジェスチャグループ内の学習データ間の類似度と位置の重みの関係の被験者ごとの結果}
+\caption{ジェスチャグループ内の学習データ間の類似度と位置の重みの関係の被験者ごとの結果．}
 \label{fig:weight_position}
 \end{figure}
 

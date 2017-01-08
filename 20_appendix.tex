@@ -5,7 +5,7 @@
 
 \chapter{\$Vアルゴリズムの擬似コード}
 \$Vアルゴリズムにおいて，学習データを追加する際のアルゴリズムと，入力データを認識する際のアルゴリズムの擬似コード示す．
-本擬似コードにおいて，template\textbf{s}は同じ名前の学習データの集まり，groupは1つのジェスチャグループ，group\textbf{s}は複数のジェスチャグループ~(すなわち全学習データ)を示している．
+本擬似コードにおいて，template\textbf{s}は同じ名前の手書きジェスチャの学習データ，groupは1つのジェスチャグループ，group\textbf{s}は複数のジェスチャグループ~(すなわち全学習データ)を示している．
 
 \begin{algorithm}
   \caption*{\$V-ADD-TEMPLATE(template)}
@@ -64,7 +64,7 @@
 		\State $T\gets templates$
 	\EndIf
   \EndFor
-  \Return <T, score>
+  \Return $<T, bestScore>$
 \end{algorithmic}
 \end{algorithm}
 

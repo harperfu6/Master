@@ -53,10 +53,10 @@
 \contentsline {subsubsection}{認識速度}{35}
 \contentsline {subsubsection}{N-best Listの1番目と2番目のスコアの差}{35}
 \contentsline {subsubsection}{ジェスチャが正しく認識された時の類似度}{36}
-\contentsline {subsubsection}{ジェスチャが正しく認識された時の類似度の最小値}{38}
-\contentsline {subsection}{\numberline {5.3.9}議論}{39}
+\contentsline {subsubsection}{ジェスチャが正しく認識された時の類似度の最小値}{37}
+\contentsline {subsection}{\numberline {5.3.9}議論}{38}
 \contentsline {section}{\numberline {5.4}重み付けのための実験}{39}
-\contentsline {subsection}{\numberline {5.4.1}重み付けの手順}{40}
+\contentsline {subsection}{\numberline {5.4.1}重み付けの手順}{39}
 \contentsline {subsection}{\numberline {5.4.2}実験結果}{42}
 \contentsline {section}{\numberline {5.5}重みを用いたジェスチャの認識}{46}
 \contentsline {chapter}{\numberline {第6章}評価実験}{47}
@@ -77,3 +77,4 @@
 \contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{61}
 \contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{62}
 \contentsline {chapter}{\numberline {付 録A }\$Vアルゴリズムの擬似コード}{69}
+\contentsline {chapter}{\numberline {付 録B }ユーザ調査により得られた手書きジェスチャ}{75}

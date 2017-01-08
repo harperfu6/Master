@@ -20,8 +20,7 @@ Lisa Anthony and Jacob~O. Wobbrock.
 \newblock \${N}-{P}rotractor: {A} {F}ast and {A}ccurate {M}ultistroke
   {R}ecognizer.
 \newblock In {\em Proceedings of Graphics Interface 2012}, GI '12, pp.
-  117--120, Toronto, Ont., Canada, Canada, 2012. Canadian Information
-  Processing Society.
+  117--120, Toronto, Canada, 2012. Canadian Information Processing Society.
 
 \bibitem[AZ09]{Appert:2009:USC:1518701.1519052}
 Caroline Appert and Shumin Zhai.
@@ -63,7 +62,7 @@ David~Skalak Department and David~B. Skalak.
 Andreas Fischer, Muriel Visani, Van~Cuong Kieu, and Ching~Y. Suen.
 \newblock Generation of {L}earning {S}amples for {H}istorical {H}andwriting
   {R}ecognition {U}sing {I}mage {D}egradation.
-\newblock In {\em Proceedings of the 2Nd International Workshop on Historical
+\newblock In {\em Proceedings of the 2{n}d International Workshop on Historical
   Document Imaging and Processing}, HIP '13, pp. 73--79, New York, NY, USA,
   2013. ACM.
 
@@ -74,7 +73,8 @@ Javier Galbally, Julian Fierrez, Marcos Martinez-diaz, and Javier
   {S}pectral {A}nalysis, 2009.
 
 \bibitem[GKN{\etalchar{+}}05]{Gatos:2005:SAK:1106779.1106876}
-B.~Gatos, T.~Konidaris, K.~Ntzios, I.~Pratikakis, and S.~J. Perantonis.
+Basilis. Gatos, Thomas. Konidaris, K.~Ntzios, Ioannis. Pratikakis, and
+  Stavros.~J. Perantonis.
 \newblock A {S}egmentation-free {A}pproach for {K}eyword {S}earch in
   {H}istorical {T}ypewritten {D}ocuments.
 \newblock In {\em Proceedings of the Eighth International Conference on
@@ -98,8 +98,8 @@ Jason~I. Hong and James~A. Landay.
   2000. ACM.
 
 \bibitem[HS12]{Herold:2012:CRF:2331067.2331074}
-J.~Herold and T.~F. Stahovich.
-\newblock The 1\&{C}ent; {R}ecognizer: {A} {F}ast, {A}ccurate, and
+James. Herold and Thomas.~F. Stahovich.
+\newblock The 1cent {R}ecognizer: {A} {F}ast, {A}ccurate, and
   {E}asy-to-implement {H}andwritten {G}esture {R}ecognition {T}echnique.
 \newblock In {\em Proceedings of the International Symposium on Sketch-Based
   Interfaces and Modeling}, SBIM '12, pp. 39--46, Aire-la-Ville, Switzerland,
@@ -109,7 +109,8 @@ J.~Herold and T.~F. Stahovich.
 Pengyu Hong, Matthew Turk, and Thomas~S. Huang.
 \newblock Constructing {F}inite {S}tate {M}achines for {F}ast {G}esture
   {R}ecognition.
-\newblock In {\em In Proc. 15th ICPR}, pp. 691--694, 2000.
+\newblock In {\em Proceedings 15th International Conference on Pattern
+  Recognition}, pp. 691--694, 2000.
 
 \bibitem[HZS{\etalchar{+}}07]{Hinckley:2007:ISS:1240624.1240666}
 Ken Hinckley, Shengdong Zhao, Raman Sarin, Patrick Baudisch, Edward Cutrell,
@@ -152,13 +153,13 @@ Per-Ola Kristensson and Shumin Zhai.
 Chunyuan Liao, Fran\c{c}ois Guimbreti\`{e}re, Ken Hinckley, and Jim Hollan.
 \newblock Papiercraft: {A} {G}esture-based {C}ommand {S}ystem for {I}nteractive
   {P}aper.
-\newblock {\em ACM Trans. Comput.-Hum. Interact.}, Vol.~14, No.~4, pp.
-  18:1--18:27, January 2008.
+\newblock {\em ACM Transactions on Computer-Human Interacttion}, Vol.~14,
+  No.~4, pp. 18:1--18:27, January 2008.
 
 \bibitem[Li10a]{Li:2010:GST:1866029.1866044}
 Yang Li.
 \newblock Gesture {S}earch: {A} {T}ool for {F}ast {M}obile {D}ata {A}ccess.
-\newblock In {\em Proceedings of the 23Nd Annual ACM Symposium on User
+\newblock In {\em Proceedings of the 23{r}d Annual ACM Symposium on User
   Interface Software and Technology}, UIST '10, pp. 87--96, New York, NY, USA,
   2010. ACM.
 
@@ -217,12 +218,13 @@ Brad~A. Myers, Richard~G. McDaniel, Robert~C. Miller, Alan~S. Ferrency, Andrew
 Ramanan Navaratnam, Andrew~W. Fitzgibbon, and Roberto Cipolla.
 \newblock The {J}oint {M}anifold {M}odel for {S}emi-supervised {M}ulti-valued
   {R}egression.
-\newblock In {\em ICCV}, pp. 1--8. IEEE Computer Society, 2007.
+\newblock In {\em International Conference on Computer Vision}, pp. 1--8. IEEE
+  Computer Society, 2007.
 
 \bibitem[Per85]{Perlin:1985:IS:325165.325247}
 Ken Perlin.
 \newblock An {I}mage {S}ynthesizer.
-\newblock {\em SIGGRAPH Comput. Graph.}, Vol.~19, No.~3, pp. 287--296, July
+\newblock {\em SIGGRAPH Computer Graphics}, Vol.~19, No.~3, pp. 287--296, July
   1985.
 
 \bibitem[Pit91]{Pittman:1991:RHT:108844.108914}
@@ -234,14 +236,15 @@ James~A. Pittman.
 \bibitem[PJ09]{Park:2009:SFA:1464526.1465112}
 Hae-Sang Park and Chi-Hyuck Jun.
 \newblock A {S}imple and {F}ast {A}lgorithm for {K}-medoids {C}lustering.
-\newblock {\em Expert Syst. Appl.}, Vol.~36, No.~2, pp. 3336--3341, March 2009.
+\newblock {\em Expert System With Application}, Vol.~36, No.~2, pp. 3336--3341,
+  March 2009.
 
 \bibitem[PS00]{Plamondon:2000:OOH:331097.331275}
 R{\'e}jean Plamondon and Sargur~N. Srihari.
 \newblock On-{L}ine and {O}ff-{L}ine {H}andwriting {R}ecognition: {A}
   {C}omprehensive {S}urvey.
-\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, Vol.~22, No.~1, pp.
-  63--84, January 2000.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  Vol.~22, No.~1, pp. 63--84, January 2000.
 
 \bibitem[PTIL16]{Pittman:2016:FFA:2856767.2856808}
 Corey Pittman, Eugene~M. Taranta~II, and Joseph~J. LaViola, Jr.
@@ -253,7 +256,7 @@ Corey Pittman, Eugene~M. Taranta~II, and Joseph~J. LaViola, Jr.
 \bibitem[PTVF92]{Press:1992:NRC:148286}
 William~H. Press, Saul~A. Teukolsky, William~T. Vetterling, and Brian~P.
   Flannery.
-\newblock {\em Numerical {R}ecipes in {C} (2{N}d Edition): {T}he {A}rt of
+\newblock {\em Numerical {R}ecipes in {C} (2{n}d Edition): {T}he {A}rt of
   {S}cientific {C}omputing}.
 \newblock Cambridge University Press, New York, NY, USA, 1992.
 
@@ -270,7 +273,7 @@ Jaime Ruiz, Yang Li, and Edward Lank.
   Computing Systems}, CHI '11, pp. 197--206, New York, NY, USA, 2011. ACM.
 
 \bibitem[RSH11]{Reaver:2011:MQU:2021164.2021183}
-J.~Reaver, T.~F. Stahovich, and J.~Herold.
+J.~Reaver, Thomas.~F. Stahovich, and James. Herold.
 \newblock How to {M}ake a {Q}uick\$: {U}sing {H}ierarchical {C}lustering to
   {I}mprove the {E}fficiency of the {D}ollar {R}ecognizer.
 \newblock In {\em Proceedings of the Eighth Eurographics Symposium on
@@ -280,7 +283,7 @@ J.~Reaver, T.~F. Stahovich, and J.~Herold.
 \bibitem[RSP12]{Rodriguez-Serrano:2012:SQH:2240326.2240755}
 Jose~A. Rodriguez-Serrano and Florent Perronnin.
 \newblock Synthesizing {Q}ueries for {H}andwritten {W}ord {I}mage {R}etrieval.
-\newblock {\em Pattern Recogn.}, Vol.~45, No.~9, pp. 3270--3276, September
+\newblock {\em Pattern Recognition}, Vol.~45, No.~9, pp. 3270--3276, September
   2012.
 
 \bibitem[Rub91a]{Rubine:1991:SGE:127719.122753}
@@ -311,8 +314,8 @@ Tevfik~Metin Sezgin and Randall Davis.
   ACM.
 
 \bibitem[SFC{\etalchar{+}}11]{Shotton:2011:RHP:2191740.2192047}
-J.~Shotton, A.~Fitzgibbon, M.~Cook, T.~Sharp, M.~Finocchio, R.~Moore,
-  A.~Kipman, and A.~Blake.
+James. Shotton, Andrew. Fitzgibbon, Mat. Cook, Toby. Sharp, Mark. Finocchio,
+  Richard. Moore, Alex. Kipman, and Andrew. Blake.
 \newblock Real-time {H}uman {P}ose {R}ecognition in {P}arts from {S}ingle
   {D}epth {I}mages.
 \newblock In {\em Proceedings of the 2011 IEEE Conference on Computer Vision
@@ -333,7 +336,7 @@ Shaikh Shawon~Arefin Shimon, Sarah Morrison-Smith, Noah John, Ghazal Fahimi,
   pp. 227--232, New York, NY, USA, 2015. ACM.
 
 \bibitem[Tap82]{Tappert:1982:CSR:1664966.1664979}
-C.~C. Tappert.
+Charles.~C. Tappert.
 \newblock Cursive {S}cript {R}ecognition by {E}lastic {M}atching.
 \newblock {\em IBM Journal of Reseach and Development}, Vol.~26, No.~6, pp.
   765--771, November 1982.
@@ -343,8 +346,8 @@ Eugene~M. Taranta, II and Joseph~J. LaViola, Jr.
 \newblock Penny {P}incher: {A} {B}lazing {F}ast, {H}ighly {A}ccurate \$-family
   {R}ecognizer.
 \newblock In {\em Proceedings of the 41st Graphics Interface Conference}, GI
-  '15, pp. 195--202, Toronto, Ont., Canada, Canada, 2015. Canadian Information
-  Processing Society.
+  '15, pp. 195--202, Toronto, Canada, 2015. Canadian Information Processing
+  Society.
 
 \bibitem[TMPL16]{Taranta:2016:RPA:2984511.2984525}
 Eugene~M. Taranta, II, Mehran Maghoumi, Corey~R. Pittman, and Joseph~J.
@@ -362,10 +365,10 @@ Jing Tian, Chengzhang Qu, Wenyuan Xu, and Song Wang.
   Security Symposium}, 2013.
 
 \bibitem[TSW90]{Tappert:1990:SAO:83123.83137}
-C.~C. Tappert, C.~Y. Suen, and T.~Wakahara.
+Charles.~C. Tappert, Ching.~Y. Suen, and Toru. Wakahara.
 \newblock The {S}tate of the {A}rt in {O}nline {H}andwriting {R}ecognition.
-\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, Vol.~12, No.~8, pp.
-  787--808, August 1990.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  Vol.~12, No.~8, pp. 787--808, August 1990.
 
 \bibitem[Vat12a]{Vatavu:2012:OAF:2166966.2167022}
 Radu-Daniel Vatavu.
@@ -378,12 +381,12 @@ Radu-Daniel Vatavu.
 \bibitem[Vat12b]{Vatavu:2012:UGF:2325616.2325626}
 Radu-Daniel Vatavu.
 \newblock User-defined {G}estures for {F}ree-hand {T}{V} {C}ontrol.
-\newblock In {\em Proceedings of the 10th European Conference on Interactive tv
-  and video}, EuroiTV '12, pp. 45--48, New York, NY, USA, 2012. ACM.
+\newblock In {\em Proceedings of the 10th European Conference on Interactive
+  {t}{v} and {v}ideo}, EuroiTV '12, pp. 45--48, New York, NY, USA, 2012. ACM.
 
 \bibitem[VAW12]{Vatavu:2012:GPC:2388676.2388732}
 Radu-Daniel Vatavu, Lisa Anthony, and Jacob~O. Wobbrock.
-\newblock Gestures {A}s {P}oint {C}louds: {A} \${P} {R}ecognizer for {U}ser
+\newblock Gestures as {P}oint {C}louds: {A} \${P} {R}ecognizer for {U}ser
   {I}nterface {P}rototypes.
 \newblock In {\em Proceedings of the 14th ACM International Conference on
   Multimodal Interaction}, ICMI '12, pp. 273--280, New York, NY, USA, 2012.
@@ -422,8 +425,8 @@ Shumin Zhai and Per-Ola Kristensson.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '03, pp. 97--104, New York, NY, USA, 2003. ACM.
 
-\bibitem[俊之97]{110003743975}
-俊之増井.
+\bibitem[増井97]{110003743975}
+増井俊之.
 \newblock 予測/例示インタフェースの研究動向 (特集
   インタラクティブソフトウェア).
 \newblock コンピュータソフトウェア, Vol.~14, No.~3, pp. 220--235, may 1997.
