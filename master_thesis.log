@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  8 JAN 2017 21:54
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  8 JAN 2017 23:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -76,13 +76,41 @@ File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \iftdir \sbox \@tempboxa {#1\hskip 1zw#2}\else \sbox \@tempboxa {#1: #2}\fi \
+ifdim \wd \@tempboxa >\hsize \iftdir #1\hskip 1zw#2\relax \par \else #1: #2\rel
+ax \par \fi \else \global \@minipagefalse \hbox to\hsize {\hfil \box \@tempboxa
+ \hfil }\fi \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count92
 ) (./algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count92
+\c@float@type=\count93
 \float@exts=\toks16
 \float@box=\box41
 \@float@everytoks=\toks17
@@ -92,80 +120,91 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks18
-\c@algorithm=\count93
+\c@algorithm=\count94
 )
-(./algorithmic.sty
-Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count94
-\c@ALC@line=\count95
-\c@ALC@rem=\count96
-\c@ALC@depth=\count97
-\ALC@tlm=\skip43
-\algorithmicindent=\skip44
-) (./macro.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
+(./algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count95
+\c@ALG@rem=\count96
+\c@ALG@nested=\count97
+\ALG@tlm=\skip43
+\ALG@thistlm=\skip44
+\c@ALG@Lnr=\count98
+\c@ALG@blocknr=\count99
+\c@ALG@storecount=\count100
+\c@ALG@tmpcounter=\count101
+\ALG@tmplength=\skip45
+) (./algpseudocode.sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (./macro.tex) (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-)
-(./sie-jp-euc.sty
-\vspacetitle=\dimen125
-\vspaceabstract=\dimen126
+) (./sie-jp-euc.sty
+\vspacetitle=\dimen132
+\vspaceabstract=\dimen133
 ) (./master_thesis.aux)
 \openout1 = `master_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
  (I search kanjifont definition file:
 . . ) (I search font definition file: . . . . . . . )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 70.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 72.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 71.
+(Font)              <10.95> on input line 73.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 71.
+(Font)              <8> on input line 73.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 71.
+(Font)              <6> on input line 73.
 
-Overfull \hbox (10.53625pt too wide) in paragraph at lines 71--71
+Overfull \hbox (10.53625pt too wide) in paragraph at lines 73--73
 []$[]$ 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 71
+Underfull \vbox (badness 10000) detected at line 73
  []
 
 [-1
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 83.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 83.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
  (./00_abstract.tex) [0]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 95.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 97.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 95.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 97.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
  (./master_thesis.toc [1
 
 ] [2])
@@ -192,25 +231,19 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 ]
 File: img/examples_V.eps Graphic file (type eps)
  <img/examples_V.eps> [2] [3]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 43.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 45.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
 )
 (./02_relatedworks.tex [4]
 第 2 章
 [5
 
-] [6] [7]
-Overfull \hbox (16.67316pt too wide) in paragraph at lines 47--50
-[]\JY1/mc/m/n/10.95 手書きジ ェ スチ ャ 認識を簡単に開発可能なツ ールキ ッ トも
-開発された \OT1/ptm/m/n/10.95 [[], [], []]\JY1/mc/m/n/10.95 ．
- []
-
-[8]) (./03_elicitation.tex [9]
+] [6] [7] [8]) (./03_elicitation.tex [9]
 第 3 章
 File: img/stroke_1.eps Graphic file (type eps)
 <img/stroke_1.eps>
@@ -223,7 +256,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: img/elicetated_strokes.eps Graphic file (type eps)
  <img/elicetated_strokes.eps>
 
-LaTeX Warning: Float too large for page by 16.40184pt on input line 64.
+LaTeX Warning: Float too large for page by 14.88138pt on input line 64.
 
 ) (./04_onedollar.tex [12] [13]
 第 4 章
@@ -302,8 +335,15 @@ File: img/same_gesture.eps Graphic file (type eps)
  <img/same_gesture.eps> [28]
 File: img/make_gesture_group.eps Graphic file (type eps)
  <img/make_gesture_group.eps> [29]
-File: img/group_similarity.eps Graphic file (type eps)
 
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 247.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 247.
+
+
+File: img/group_similarity.eps Graphic file (type eps)
 <img/group_similarity.eps> [30]
 File: img/screenshot.eps Graphic file (type eps)
  <img/screenshot.eps> [31] [32] [33]
@@ -338,7 +378,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: img/weight_orientation.eps Graphic file (type eps)
 <img/weight_orientation.eps>
 
-LaTeX Warning: Float too large for page by 1.81256pt on input line 487.
+LaTeX Warning: Float too large for page by 0.2921pt on input line 487.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -417,12 +457,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ]
 File: img/different_direction.eps Graphic file (type eps)
- <img/different_direction.eps> [58]
-
-LaTeX Warning: Citation `Kratz:2010:RSG:1719970.1720051' on page 59 undefined o
-n input line 41.
-
-) (./09_conclusion.tex [59]
+ <img/different_direction.eps> [58]) (./09_conclusion.tex [59]
 第 9 章
 ) [60
 
@@ -445,21 +480,27 @@ Underfull \hbox (badness 1210) in paragraph at lines 77--83
 . Peran-to-nis.  A
  []
 
-[63] [64] [65] [66] [67]) [68] (./master_thesis.aux)
+[63] [64] [65] [66] [67]) (./20_appendix.tex
+
+LaTeX Font Warning: Font shape `JT1/mc/m/sc' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 4.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/sc' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 4.
+
+) [68] (./master_thesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 1516 strings out of 493777
- 21210 string characters out of 6151334
- 82151 words of memory out of 5000000
- 4931 multiletter control sequences out of 15000+600000
- 19911 words of font info for 68 fonts, out of 8000000 for 9000
+ 2938 strings out of 493777
+ 45792 string characters out of 6151334
+ 104849 words of memory out of 5000000
+ 6338 multiletter control sequences out of 15000+600000
+ 21528 words of font info for 72 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 32i,8n,21p,1506b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,38p,1506b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on master_thesis.dvi (76 pages, 249720 bytes).
+Output written on master_thesis.dvi (76 pages, 252936 bytes).

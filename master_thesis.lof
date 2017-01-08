@@ -1,49 +1,49 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces ジェスチャの形状と書き順は同じであるが，大きさ (e), 向き (a) (b) (d), 位置 (c) が異なる，単一ストロークからなる手書きジェスチャの例}}{3}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces ジェスチャの形状と書き順は同じであるが，向き (a) (b) (d)，位置 (c)，大きさ (e)が異なる，単一ストロークからなる手書きジェスチャの例\relax }}{3}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces \$1において用いられる，スマートフォンやタブレット端末などのタッチパネルへの手書き入力やペン入力において一般的に良く用いられる，単一ストロークからなる手書きジェスチャの例，黒い点は手書きジェスチャの書き始めを示す．}}{11}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces 調査において6人の被験者\nobreakspace {}(P1～P6)から得られた，手書きジェスチャの一覧．赤い点は手書きジェスチャの書き始めを示す．}}{13}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \$1において用いられる，スマートフォンやタブレット端末などのタッチパネルへの手書き入力やペン入力において一般的に良く用いられる，単一ストロークからなる手書きジェスチャの例，黒い点は手書きジェスチャの書き始めを示す．\relax }}{11}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 調査において6人の被験者\nobreakspace {}(P1～P6)から得られた，手書きジェスチャの一覧．赤い点は手書きジェスチャの書き始めを示す．\relax }}{13}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces 複数の点から構成されるストローク．同じストロークでも，入力される速度によって点の数が異なる．}}{15}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces リサンプリングの例．点の数が異なる同じジェスチャも，同じ点の数へとリサンプリングされる．}}{16}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces 向きに正規化する例．向きが異なったとしても，同じ向きになるように回転する．}}{16}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces 大きさに正規化する例．大きさが異なったとしても，同じ大きさになるように変形する．}}{17}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces 位置に正規化する例．位置が異なったとしても，同じ位置になるように移動する．}}{17}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces 黄金分割探索によって，極値を求める例．}}{18}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces \$1アルゴリズムにおいて4つのステップを経て，入力データと学習データが比較されるまでの流れ．}}{19}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces \$1が1次元の手書きジェスチャを認識できない理由．向き及び大きさに正規化することによって，ストロークを構成する各点はまばらになってしまう．}}{20}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 複数の点から構成されるストローク．同じストロークでも，入力される速度によって点の数が異なる．\relax }}{15}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces リサンプリングの例．点の数が異なる同じジェスチャも，同じ点の数へとリサンプリングされる．\relax }}{16}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 向きに正規化する例．向きが異なったとしても，同じ向きになるように回転する．\relax }}{16}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 大きさに正規化する例．大きさが異なったとしても，同じ大きさになるように変形する．\relax }}{17}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 位置に正規化する例．位置が異なったとしても，同じ位置になるように移動する．\relax }}{17}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces 黄金分割探索によって，極値を求める例．\relax }}{18}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \$1アルゴリズムにおいて4つのステップを経て，入力データと学習データが比較されるまでの流れ．\relax }}{19}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces \$1が1次元の手書きジェスチャを認識できない理由．向き及び大きさに正規化することによって，ストロークを構成する各点はまばらになってしまう．\relax }}{20}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces 形状と書き順が同じ手書きジェスチャの学習データが集まった，ジェスチャグループの例}}{23}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces 同一ジェスチャグループ\nobreakspace {}(A)のみに対し，大きさ，向き，位置の類似度計算を行う．}}{24}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces 大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例}}{25}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces 大きさの定義}}{26}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces 向きの定義}}{27}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces 位置の定義}}{28}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces 同じ名前の学習データが追加された時に，それぞれの大きさ，向き，位置の特徴量を(S, $\theta $, P)，(S', $\theta $', P')とした時の，そのジェスチャの新たな特徴量の求め方．}}{28}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces 学習データを新たに追加する場面の例}}{29}
-\contentsline {figure}{\numberline {5.9}{\ignorespaces ジェスチャグループの学習データ間の類似度を求める方法，この場合，\nobreakspace {}(大きさ，向き，位置) =\nobreakspace {}(0.8, 0.1, 0.4)となる．}}{30}
-\contentsline {figure}{\numberline {5.10}{\ignorespaces 実験に用いたスマートフォンのスクリーンショット．緑色のエリアはジェスチャが入力されるエリア．}}{32}
-\contentsline {figure}{\numberline {5.11}{\ignorespaces 各手法における，被験者ごとの認識率}}{34}
-\contentsline {figure}{\numberline {5.12}{\ignorespaces 各手法における，被験者ごとの認識速度}}{35}
-\contentsline {figure}{\numberline {5.13}{\ignorespaces 各手法における，被験者ごとのN-best Listsの1番目と2番目のスコア差}}{36}
-\contentsline {figure}{\numberline {5.14}{\ignorespaces 各手法における，被験者ごとのジェスチャが正しく認識された時の類似度}}{37}
-\contentsline {figure}{\numberline {5.15}{\ignorespaces 各手法における，被験者ごとのジェスチャが正しく認識された時の類似度の最小値}}{38}
-\contentsline {figure}{\numberline {5.16}{\ignorespaces 条件を満たす重みが決定されるまでの手順}}{41}
-\contentsline {figure}{\numberline {5.17}{\ignorespaces 条件を満たさない重みが決定されるまでの手順}}{41}
-\contentsline {figure}{\numberline {5.18}{\ignorespaces ジェスチャグループ内の学習データ間の類似度と大きさの重みの関係の被験者ごとの結果}}{43}
-\contentsline {figure}{\numberline {5.19}{\ignorespaces ジェスチャグループ内の学習データ間の類似度と向きの重みの関係の被験者ごとの結果}}{44}
-\contentsline {figure}{\numberline {5.20}{\ignorespaces ジェスチャグループ内の学習データ間の類似度と位置の重みの関係の被験者ごとの結果}}{45}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 形状と書き順が同じ手書きジェスチャの学習データが集まった，ジェスチャグループの例\relax }}{23}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 同一ジェスチャグループ\nobreakspace {}(A)のみに対し，大きさ，向き，位置の類似度計算を行う．\relax }}{24}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例\relax }}{25}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces 大きさの定義\relax }}{26}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 向きの定義\relax }}{27}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces 位置の定義\relax }}{28}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces 同じ名前の学習データが追加された時に，それぞれの大きさ，向き，位置の特徴量を(S, $\theta $, P)，(S', $\theta $', P')とした時の，そのジェスチャの新たな特徴量の求め方．\relax }}{28}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces 学習データを新たに追加する場面の例\relax }}{29}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces ジェスチャグループの学習データ間の類似度を求める方法，この場合，\nobreakspace {}(大きさ，向き，位置) =\nobreakspace {}(0.8, 0.1, 0.4)となる．\relax }}{30}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces 実験に用いたスマートフォンのスクリーンショット．緑色のエリアはジェスチャが入力されるエリア．\relax }}{32}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces 各手法における，被験者ごとの認識率の平均\relax }}{34}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces 各手法における，被験者ごとの認識速度の平均\relax }}{35}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces 各手法における，被験者ごとのN-best Listの1番目と2番目のスコア差の平均\relax }}{36}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces 各手法における，被験者ごとのジェスチャが正しく認識された時の類似度の平均\relax }}{37}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces 各手法における，被験者ごとのジェスチャが正しく認識された時の類似度の最小値の平均\relax }}{38}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces 条件を満たす重みが決定されるまでの手順\relax }}{41}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces 条件を満たさない重みが決定されるまでの手順\relax }}{41}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces ジェスチャグループ内の学習データ間の類似度と大きさの重みの関係の被験者ごとの結果\relax }}{43}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces ジェスチャグループ内の学習データ間の類似度と向きの重みの関係の被験者ごとの結果\relax }}{44}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces ジェスチャグループ内の学習データ間の類似度と位置の重みの関係の被験者ごとの結果\relax }}{45}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces 各手法における，被験者ごとの認識率}}{48}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces \$V，\$1，Rubineにおける，被験者ごとの認識速度}}{49}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces DTWにおける，被験者ごとの認識速度}}{50}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces \$Vにおける，N-best Listの1番目と2番目のスコアの差}}{51}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度}}{52}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度の最小値}}{52}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces 各手法における，被験者ごとの認識率の平均\relax }}{48}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces \$V，\$1，Rubineにおける，被験者ごとの認識速度の平均\relax }}{49}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces DTWにおける，被験者ごとの認識速度の平均\relax }}{50}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces \$Vにおける，N-best Listの1番目と2番目のスコアの差の平均\relax }}{51}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度の平均\relax }}{52}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度の最小値の平均\relax }}{52}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces 手書きジェスチャを利用したアプリケーション開発ツールキット．\nobreakspace {}(a)まず，ユーザはスマートフォンなどの手書きジェスチャを入力する端末を用いて学習データを追加することによって，\nobreakspace {}(b)\$Vが実装されたツールキットが追加された学習データを自動的にジェスチャグループに分類し，ジェスチャグループごとに重みを計算する．(c)最後にユーザは，アプリケーションにおける処理と手書きジェスチャを対応付ける．}}{55}
-\contentsline {figure}{\numberline {7.2}{\ignorespaces ツールキットを使って開発されたメディアプレイヤの例．\nobreakspace {}(a)アプリケーションのスクリーンショット，\nobreakspace {}(b)実際にスマートフォンを用いて入力している場面}}{56}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces 手書きジェスチャを利用したアプリケーション開発ツールキット．\nobreakspace {}(a)まず，ユーザはスマートフォンなどの手書きジェスチャを入力する端末を用いて学習データを追加することによって，\nobreakspace {}(b)\$Vが実装されたツールキットが追加された学習データを自動的にジェスチャグループに分類し，ジェスチャグループごとに重みを計算する．(c)最後にユーザは，アプリケーションにおける処理と手書きジェスチャを対応付ける．\relax }}{55}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces ツールキットを使って開発されたメディアプレイヤの例．\nobreakspace {}(a)アプリケーションのスクリーンショット，\nobreakspace {}(b)実際にスマートフォンを用いて入力している場面\relax }}{56}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces 形状が同じであるが書き順の異なる手書きジェスチャの例}}{58}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces 形状が同じであるが書き順の異なる手書きジェスチャの例\relax }}{58}
 \addvspace {10\p@ }

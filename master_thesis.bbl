@@ -17,7 +17,7 @@ Lisa Anthony and Jacob~O. Wobbrock.
 
 \bibitem[AW12]{Anthony:2012:NFA:2305276.2305296}
 Lisa Anthony and Jacob~O. Wobbrock.
-\newblock \${N}-protractor: {A} {F}ast and {A}ccurate {M}ultistroke
+\newblock \${N}-{P}rotractor: {A} {F}ast and {A}ccurate {M}ultistroke
   {R}ecognizer.
 \newblock In {\em Proceedings of Graphics Interface 2012}, GI '12, pp.
   117--120, Toronto, Ont., Canada, Canada, 2012. Canadian Information
@@ -125,6 +125,14 @@ Gordon Kurtenbach and William Buxton.
 \newblock In {\em Proceedings of the INTERCHI '93 Conference on Human Factors
   in Computing Systems}, INTERCHI '93, pp. 482--487, Amsterdam, The
   Netherlands, The Netherlands, 1993. IOS Press.
+
+\bibitem[KR10]{Kratz:2010:RSG:1719970.1720051}
+Sven Kratz and Michael Rohs.
+\newblock The \$3 {R}ecognizer: {S}imple 3{D} {G}esture {R}ecognition on
+  {M}obile {D}evices.
+\newblock In {\em Proceedings of the 15th International Conference on
+  Intelligent User Interfaces}, IUI '10, pp. 419--420, New York, NY, USA, 2010.
+  ACM.
 
 \bibitem[KS05]{Kara:2005:ITS:1652319.1652712}
 Levent~Burak Kara and Thomas~F. Stahovich.

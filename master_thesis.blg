@@ -9,52 +9,51 @@ Repeated entry---line 1809 of file master_thesis.bib
 I'm skipping whatever remains of this entry
 A bad cross reference---entry "conf/iccv/NavaratnamFC07"
 refers to entry "conf/iccv/2007", which doesn't exist
-Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "conf/iccv/2007"
 Warning--to sort, need author or key in SigmaLognormal
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty booktitle in Anderson2004HiddenMM
 Warning--empty author in SigmaLognormal
-You've used 60 entries,
+You've used 61 entries,
             3087 wiz_defined-function locations,
-            1090 strings with 20047 characters,
-and the built_in function-call counts, 36520 in all, are:
-= -- 3606
-> -- 1253
-< -- 95
-+ -- 470
-- -- 452
-* -- 2227
-:= -- 4863
-add.period$ -- 218
-call.type$ -- 60
-change.case$ -- 400
-chr.to.int$ -- 57
-cite$ -- 64
-duplicate$ -- 1900
-empty$ -- 2857
-format.name$ -- 678
-if$ -- 8449
+            1097 strings with 20313 characters,
+and the built_in function-call counts, 37132 in all, are:
+= -- 3670
+> -- 1271
+< -- 96
++ -- 477
+- -- 458
+* -- 2261
+:= -- 4943
+add.period$ -- 222
+call.type$ -- 61
+change.case$ -- 406
+chr.to.int$ -- 58
+cite$ -- 65
+duplicate$ -- 1933
+empty$ -- 2907
+format.name$ -- 687
+if$ -- 8594
 int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 60
-newline$ -- 302
-num.names$ -- 176
-pop$ -- 495
+missing$ -- 61
+newline$ -- 307
+num.names$ -- 179
+pop$ -- 502
 preamble$ -- 1
-purify$ -- 461
+purify$ -- 468
 quote$ -- 0
-skip$ -- 1980
+skip$ -- 2015
 stack$ -- 0
-substring$ -- 2178
-swap$ -- 583
-text.length$ -- 95
+substring$ -- 2218
+swap$ -- 593
+text.length$ -- 96
 text.prefix$ -- 12
 top$ -- 0
-type$ -- 476
+type$ -- 484
 warning$ -- 3
-while$ -- 331
-width$ -- 68
-write$ -- 891
-is.kanji.str$ -- 755
+while$ -- 337
+width$ -- 69
+write$ -- 907
+is.kanji.str$ -- 767
 (There were 2 error messages)
