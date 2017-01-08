@@ -1,29 +1,287 @@
+\newcommand{\vars}{\texttt}
+\let\oldReturn\Return
+\renewcommand{\Return}{\State\oldReturn}
+\algblockdefx[Foreach]{Foreach}{EndForeach}[1]{\textbf{foreach} #1 \textbf{do}}{\textbf{end foreach}}
+
+\chapter{\$Vアルゴリズムの擬似コード}
+\$Vアルゴリズムにおいて，学習データを追加する際のアルゴリズムと，入力データを認識する際のアルゴリズムの擬似コード示す．
+本擬似コードにおいて，template\textbf{s}は同じ名前の学習データの集まり，groupは1つのジェスチャグループ，group\textbf{s}は複数のジェスチャグループ~(すなわち全学習データ)を示している．
+
 \begin{algorithm}
-  \caption{Euclid’s algorithm}\label{euclid}
+  \caption*{\$V-ADD-TEMPLATE(template)}
   \begin{algorithmic}[1]
-    \Procedure{Euclid}{$a,b$}\Comment{The g.c.d. of a and b}
-    \State $r\gets a\bmod b$
-    \While{$r\not=0$}\Comment{We have the answer if r is 0} \label{marker}
-      \State $a\gets b$
-      \State $b\gets r$
-      \State $r\gets a\bmod b$
-    \EndWhile
-    \State \textbf{return} $b$\Comment{The gcd is b}
-  \EndProcedure
+\State $n\gets 64$
+\State $template_\textit{newPoints} \gets REAMPLE(template_\textit{points}, n)$ \Comment{Refer to \$1}
+\State $tempate_\textit{size}\gets SIZE(template_\textit{newPoints})$
+\State $tempate_\textit{orientation}\gets ORIENTATION(template_\textit{newPoints})$
+\State $tempate_\textit{position}\gets POSITION(template_\textit{newPoints})$
+\State $<templates, group>\gets SEARCH\mathchar`-SAME\mathchar`-NAME\mathchar`-TEMPLATE(template)$
+\If{$templates$}
+	\State $templates.push(template)$
+	\State $SET\mathchar`-TEMPLATE\mathchar`-FEATURE(templates)$
+	\State $SET\mathchar`-GESTURE\mathchar`-GROUP\mathchar`-SIMILARITY(templates, group)$
+	\State $SET\mathchar`-GESTURE\mathchar`-GROUP\mathchar`-WEIGHT(group)$
+\ElsIf
+	\State $<group, score>\gets \$1\mathchar`-RECOGNIZER(template, groups)$
+	\If{$score\ge 0.8$}
+		\State $templates\gets MAKE\mathchar`-TEMPLATES(template)$
+		\State $group.push(templates)$
+		\State $SET\mathchar`-GESTURE\mathchar`-GROUP\mathchar`-SIMILARITY(templates, group)$
+		\State $SET\mathchar`-GESTURE\mathchar`-GROUP\mathchar`-WEIGHT(group)$
+	\ElsIf
+		\State $templates\gets MAKE\mathchar`-TEMPLATES(template)$
+		\State $group\gets MAKE\mathchar`-GESTURE\mathchar`-GROUP(templates)$
+		\State $groups.push(group)$
+	\EndIf
+\EndIf
 \end{algorithmic}
 \end{algorithm}
 
 \begin{algorithm}
-  \caption*{RESAMPLE(Points, n)}
+  \caption*{\$V-RECOGNIZER(gesture, groups)}
   \begin{algorithmic}[1]
-  \State $I \gets PATH-LENGTH(points) / (n - 1)$
-  \State $D \gets 0$
-  \State $newPoints \gets points_\textit{0}$
-  
+  \State $n\gets 64$
+  \State $gesture_\textit{newPoints} \gets REAMPLE(template_\textit{points}, n)$ \Comment{Refer to \$1}
+  \State $gesture_\textit{size}\gets SIZE(template_\textit{newPoints})$
+  \State $gesture_\textit{orientation}\gets ORIENTATION(template_\textit{newPoints})$
+  \State $gesutre_\textit{position}\gets POSITION(template_\textit{newPoints})$
+  \State $<group, score>\gets \$1\mathchar`-RECOGNIZER(template, groups)$
+  \State $bestScore\gets 0$
+    \For{$i\gets 1, group_\textit{length}$}
+    	\State $templates\gets group_\textit{i}$
+	\State $sizeSimilarity\gets SIZE\mathchar`-SIMILARITY(templates_\textit{size}, gesture_\textit{size})$
+	\State $\theta 1\gets templates_\textit{orientation}$
+	\State $\theta 2\gets gesture_\textit{orientation}$
+	\State $orientationSimilarity\gets ORIENTATION\mathchar`-SIMILARITY(\theta 1, \theta 2)$
+	\State $x\gets templates_\textit{positionx}$
+	\State $x'\gets gesture_\textit{positionx}$
+	\State $y\gets templates_\textit{positiony}$
+	\State $y'\gets gesture_\textit{positiony}$
+	\State $positionSimilarity\gets POSITION\mathchar`-SIMILARITY(x, x', y, y')$
+	\State $score\gets sizeSimilarity\times group_\textit{sizeWeight} + orientationSimilarity\times group_\textit{orientationWeight} + positionSimilarity\times group_\textit{positionWeight}$
+	\If{$score > bestScore$}
+		\State $bestScore\gets score$
+		\State $T\gets templates$
+	\EndIf
+  \EndFor
+  \Return <T, score>
 \end{algorithmic}
 \end{algorithm}
 
 
+\begin{algorithm}
+  \caption*{SET-TEMPLATE-FEATURE(templates)}
+  \begin{algorithmic}[1]
+  \For{$i\gets 1, templates_\textit{length}$}
+  \State $templates_\textit{size}\gets templates_\textit{size} + templates_\textit{isize}$
+  \State $templates_\textit{orientation}\gets templates_\textit{orientation} + templates_\textit{iorientation}$
+  \State $templates_\textit{positionx}\gets templates_\textit{positionx} + templates_\textit{ipositionx}$
+  \State $templates_\textit{positiony}\gets templates_\textit{positiony} + templates_\textit{ipositiony}$
+  \EndFor
+  \State $templates_\textit{size}\gets templates_\textit{size} / templates_\textit{length}$
+  \State $templates_\textit{orientation}\gets templates_\textit{orientation} / templates_\textit{length}$
+  \State $templates_\textit{positionx}\gets templates_\textit{positionx} / templates_\textit{length}$
+  \State $templates_\textit{positiony}\gets templates_\textit{positiony} / templates_\textit{length}$
+\end{algorithmic}
+\end{algorithm}
 
+\begin{algorithm}
+  \caption*{SET-GESTURE-GROUP-SIMILARITY(templates, group)}
+  \begin{algorithmic}[1]
+  \State $minSizeSimilarity\gets 1$
+   \State $minOrientationSimilarity\gets 1$
+    \State $minPositionSimilarity\gets 1$
+  \For{$i\gets 1, group_\textit{length}$}
+	\State $sizeSimilarity\gets SIZE\mathchar`-SIMILARITY(templates_\textit{size}, group_\textit{isize})$
+	\State $minSizeSimilarity\gets MIN(minSizeSimilarity, sizeSimilarity)$
+	
+	\State $\theta 1\gets templates_\textit{orientation}$
+	\State $\theta 2\gets group_\textit{iorientation}$
+	\State $orientationSimilarity\gets ORIENTATION\mathchar`-SIMILARITY(\theta 1, \theta 2)$
+	%\State $orientationSimilarity\gets ORIENTATION\mathchar`-SIMILARITY(templates_\textit{orientation}, group_\textit{iorientation})$
+	\State $minOrientationSimilarity\gets MIN(minOrientationSimilarity, orientationSimilarity)$
+	
+	\State $x\gets templates_\textit{positionx}$
+	\State $x'\gets group_\textit{ipositionx}$
+	\State $y\gets templates_\textit{positiony}$
+	\State $y'\gets group_\textit{ipositiony}$
+	\State $positionSimilarity\gets POSITION\mathchar`-SIMILARITY(x, x', y, y')$
+	\State $minPositionSimilarity\gets MIN(minPositionSimilarity, positionSimilarity)$
+  \EndFor
+  \State $group_\textit{sizeSimilarity}\gets minSizeSimilarity$
+  \State $group_\textit{orientationSimilarity}\gets minOrientationSimilarity$
+  \State $group_\textit{positionSimilarity}\gets minPostionSimilarity$
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{SIZE-SIMILARITY(size1, size2)}
+  \begin{algorithmic}[1]
+  \If{$size1\geq size2$}
+ 		 \State $sizeSimilarity\gets size2 / size1$
+	\ElsIf
+		\State $sizeSimilarity\gets size1 / size2$
+	\EndIf
+   \Return sizeSimilarity
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{ORIENTATION-SIMILARITY(orientation1, orientation2)}
+  \begin{algorithmic}[1]
+  \State $orientationSimilarity\gets ABS(templates_\textit{orientation} - group_\textit{iorientation})$
+	\If{$orientationSimilarity > \pi$}
+		\State $orientationSimilarity\gets 2\pi - orientationSimilarity$
+	\EndIf
+	\State $orientationSimilarity\gets 1 - orientationSimilarity / PI$
+    \Return orientationSimilarity
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{POSITION-SIMILARITY(x, x', y, y')}
+  \begin{algorithmic}[1]
+      \State$width\gets inputScreenWidth$
+    \State$height\gets inputScreenHeight$
+  \State $positionSimilariy\gets 1 - (\sqrt{(x - x')^2 + (y - y')^2} / \sqrt{width^2 + height^2})$
+   \Return positionSimilarity
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{SET-GESTURE-GROUP-WEIGHT(group)}
+  \begin{algorithmic}[1]
+  \State $Ss\gets group_\textit{sizeSimilarity}$
+   \State $So\gets group_\textit{orientationSimilarity}$
+    \State $Sp\gets group_\textit{positionSimilarity}$
+  \State $group_\textit{sizeWeight}\gets (5.5 + 3.5\times (So + Sp) / Ss) / 90$
+  \State $group_\textit{orientationWeight}\gets (5.0 + 3.0\times (Ss + Sp) / Sp) / 30$
+  \State $group_\textit{positionWeight}\gets (3.0 + 2.0\times (Ss + So) / Sp) / 30$
+  \State $sumWeight\gets group_\textit{sizeWeight} + group_\textit{orientationWeight} + group_\textit{positionWeight}$
+  \State $group_\textit{sizeWeight}\gets group_\textit{sizeWeight} / sumWeight$
+  \State $group_\textit{orientationWeight}\gets group_\textit{orientationWeight} / sumWeight$
+  \State $group_\textit{positionWeight}\gets group_\textit{positionWeight} / sumWeight$
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{MAKE-TEMPLATES(template)}
+  \begin{algorithmic}[1]
+  \State $templates\gets \textbf{new}\: \textbf{TEMPLATES}$
+  \State $templates.push(template)$
+  \State $templates_\textit{size}\gets - templates_\textit{size}$
+  \State $templates_\textit{orienation}\gets - templates_\textit{orientation}$
+  \State $templates_\textit{position}\gets - templates_\textit{position}$
+  \Return $templates$
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{MAKE-GESTURE-GROUP(templates)}
+  \begin{algorithmic}[1]
+  %\State $group\gets \textbf{new}\: \textbf{GROUP}$
+   \State $group\gets \textbf{new}\: \textbf{GROUP}$
+  \State $group.push(templates)$
+  \State $group_\textit{sizeSimilarity}\gets -1$
+  \State $group_\textit{orientationSimilarity}\gets -1$
+  \State $group_\textit{positionSimilarity}\gets -1$
+  \State $group_\textit{sizeWeight}\gets 0$
+  \State $group_\textit{orientationWeight}\gets 0$
+  \State $group_\textit{positionWeight}\gets 0$
+  \Return $group$
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{SIZE(points)}
+  \begin{algorithmic}[1]
+  \State $B\gets BOUNDING\mathchar`-BOX(points)$
+  \Return $B_\textit{width} \times B_\textit{height}$
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{ORIENTATION(points)}
+  \begin{algorithmic}[1]
+  \State $c\gets CENTROID(points)$
+  \Return $ATAN(c_\textit{y} - points_\textit{0y}, c_\textit{x} - points_\textit{0x})$
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{POSITION(points)}
+  \begin{algorithmic}[1]
+  \Return $CENTROID(points)$
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{\$1-RECOGNIZER(gesture, groups)}
+  \begin{algorithmic}[1]
+  \State $b\gets 0$
+  \State $size\gets 250$
+  \State $NORMALIZE(gesture)$
+  \For{$i\gets 1, groups_\textit{length}$}
+  	\State $group\gets groups_\textit{i}$
+  	\For{$j\gets 1, group_\textit{length}$}
+		\State $templates\gets group_\textit{j}$
+		\For{$k\gets 1, templates_\textit{length}$}
+			\State $NORMALIZE(templates_\textit{k})$
+			\State $d\gets DISTNCE\mathchar`-AT\mathchar`-BEST\mathchar`-ANGLE(gesture, templates_\textit{k})$ \Comment{Refer to \$1}
+			\If{d < b}
+				\State $b\gets d$
+				\State $bestGroup\gets group$
+			\EndIf
+		\EndFor
+	\EndFor
+  \EndFor
+  \State $score\gets 1 - b / 0.5\sqrt{size^2 + size^2}$
+  \Return $<bestGroup, score>$
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption*{NORMALIZE(template)}
+  \begin{algorithmic}[1]
+  \State $ROTATE\mathchar`-TO\mathchar`-ZERO(template_\textit{points})$ \Comment{Refer to \$1}
+  \State $SCALE\mathchar`-TO\mathchar`-SQUARE(template_\textit{points})$ \Comment{Refer to \$1}
+  \State $TRANSLATE\mathchar`-TO\mathchar`-ORIGIN(template_\textit{points})$ \Comment{Refer to \$1}
+\end{algorithmic}
+\end{algorithm}
+
+
+%\begin{algorithm}
+%  \caption*{RESAMPLE(Points, n)}
+%  \begin{algorithmic}[1]
+%  \State $I \gets PATH\mathchar`-LENGTH(points) / (n - 1)$
+%  \State $D \gets 0$
+%  \State $newPoints \gets points_\textit{0}$
+%  \For{$i\gets 1, points_\textit{length}$}
+%  \If{$(D + d)\ge I$}
+%  \State $d \gets DISTANCE(p_\textit{i-1}, p_\textit{i})$
+%    \State $q_\textit{x} \gets p_\textit{i-1x} + ((I - D) / d) \times (p_\textit{ix} - p_\textit{i-1x})$
+%    \State $q_\textit{y} \gets p_\textit{i-1y} + ((I - D) / d) \times (p_\textit{iy} - p_\textit{i-1y})$
+%    \State $APPEND(newPoints, i, q)$ 
+%    \State $Insert(points, i, q)$\Comment{q will be the next $p_\textit{i}$}
+%    \State $D \gets 0$
+%    \Else
+%    \State $D \gets D + d$
+%    \EndIf
+%    \EndFor
+%    \Return $newPoints$
+%\end{algorithmic}
+%\end{algorithm}
+
+
+%\begin{algorithm}
+%  \caption*{PATH-LENGTH(points)}
+%  \begin{algorithmic}[1]
+%\State $d \gets 0$
+%\For{$i\gets 1, points_\textit{length}$}
+%\State $d\gets d + DISTANCE(points_\textit{i-1}, points_\textit{i})$
+%\EndFor
+%\Return d
+%\end{algorithmic}
+%\end{algorithm}
 
 
