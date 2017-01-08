@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  8 JAN 2017 12:40
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  8 JAN 2017 21:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -109,90 +109,63 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 (./sie-jp-euc.sty
 \vspacetitle=\dimen125
 \vspaceabstract=\dimen126
-) (./master_thesis.aux
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-
-LaTeX Warning: Label `fig:rare_rec' multiply defined.
-
-)
+) (./master_thesis.aux)
 \openout1 = `master_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
- (I search kanjifont definition file: . . ) (I search font definition file: .
-. . . . . . )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 69.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+ (I search kanjifont definition file:
+. . ) (I search font definition file: . . . . . . . )
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 70.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 70.
+(Font)              <10.95> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
+(Font)              <8> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
+(Font)              <6> on input line 71.
 
-Overfull \hbox (10.53625pt too wide) in paragraph at lines 70--70
+Overfull \hbox (10.53625pt too wide) in paragraph at lines 71--71
 []$[]$ 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 70
+Underfull \vbox (badness 10000) detected at line 71
  []
 
 [-1
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 82.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 83.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 82.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 83.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
  (./00_abstract.tex) [0]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 94.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 95.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 94.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 95.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
  (./master_thesis.toc [1
 
 ] [2])
@@ -202,11 +175,11 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
  [3]
 (./master_thesis.lof [4
 
-])
+] [5])
 \tf@lof=\write4
 \openout4 = `master_thesis.lof'.
 
- [5] (./01_introduction.tex
+ [6] (./01_introduction.tex
 第 1 章
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
@@ -214,9 +187,6 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-
-LaTeX Warning: Citation `' on page 1 undefined on input line 9.
-
 [1
 
 ]
@@ -234,7 +204,13 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 第 2 章
 [5
 
-] [6] [7] [8]) (./03_elicitation.tex [9]
+] [6] [7]
+Overfull \hbox (16.67316pt too wide) in paragraph at lines 47--50
+[]\JY1/mc/m/n/10.95 手書きジ ェ スチ ャ 認識を簡単に開発可能なツ ールキ ッ トも
+開発された \OT1/ptm/m/n/10.95 [[], [], []]\JY1/mc/m/n/10.95 ．
+ []
+
+[8]) (./03_elicitation.tex [9]
 第 3 章
 File: img/stroke_1.eps Graphic file (type eps)
 <img/stroke_1.eps>
@@ -247,7 +223,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: img/elicetated_strokes.eps Graphic file (type eps)
  <img/elicetated_strokes.eps>
 
-LaTeX Warning: Float too large for page by 1.3249pt on input line 62.
+LaTeX Warning: Float too large for page by 16.40184pt on input line 64.
 
 ) (./04_onedollar.tex [12] [13]
 第 4 章
@@ -288,14 +264,18 @@ File: img/line.eps Graphic file (type eps)
 第 5 章
 [21
 
-]
+] [22]
 File: img/gesture_group.eps Graphic file (type eps)
- <img/gesture_group.eps> [22]
+ <img/gesture_group.eps>
 File: img/speed_reason.eps Graphic file (type eps)
- <img/speed_reason.eps> [23] [24]
+ <img/speed_reason.eps> [23]
 File: img/cannot_recognized.eps Graphic file (type eps)
 
-<img/cannot_recognized.eps> [25]
+<img/cannot_recognized.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24] [25]
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
 (Font)              using `JT1/mc/m/n' instead on input line 129.
@@ -305,11 +285,7 @@ LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
 (Font)              using `JY1/mc/m/n' instead on input line 129.
 
 File: img/v_size.eps Graphic file (type eps)
-<img/v_size.eps>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[26]
+<img/v_size.eps> [26]
 File: img/v_orientation.eps Graphic file (type eps)
  <img/v_orientation.eps>
 
@@ -317,47 +293,43 @@ LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 169.
 
 
 File: img/v_position.eps Graphic file (type eps)
-<img/v_position.eps> [27]
-File: img/same_gesture.eps Graphic file (type eps)
- <img/same_gesture.eps>
+<img/v_position.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[28]
+[27]
+File: img/same_gesture.eps Graphic file (type eps)
+ <img/same_gesture.eps> [28]
 File: img/make_gesture_group.eps Graphic file (type eps)
  <img/make_gesture_group.eps> [29]
 File: img/group_similarity.eps Graphic file (type eps)
- <img/group_similarity.eps>
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[30] [31]
+<img/group_similarity.eps> [30]
 File: img/screenshot.eps Graphic file (type eps)
- <img/screenshot.eps> [32] [33]
+ <img/screenshot.eps> [31] [32] [33]
 File: img/pre_rec.eps Graphic file (type eps)
- <img/pre_rec.eps> [34]
+
+<img/pre_rec.eps> [34]
 File: img/pre_speed.eps Graphic file (type eps)
-
-<img/pre_speed.eps> [35]
+ <img/pre_speed.eps> [35]
 File: img/pre_diff.eps Graphic file (type eps)
- <img/pre_diff.eps>
+ <img/pre_diff.eps> [36]
 File: img/pre_sim.eps Graphic file (type eps)
- <img/pre_sim.eps> [36]
+
+<img/pre_sim.eps> [37]
 File: img/pre_min.eps Graphic file (type eps)
-
-<img/pre_min.eps>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[37] [38] [39]
-File: img/weight_method1.eps Graphic file (type eps)
- <img/weight_method1.eps>
+ <img/pre_min.eps> [38] [39]
 File: img/weight_method2.eps Graphic file (type eps)
  <img/weight_method2.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[40]
+File: img/weight_method1.eps Graphic file (type eps)
+<img/weight_method1.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[40] [41]
 File: img/weight_size.eps Graphic file (type eps)
  <img/weight_size.eps>
 
@@ -366,6 +338,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: img/weight_orientation.eps Graphic file (type eps)
 <img/weight_orientation.eps>
 
+LaTeX Warning: Float too large for page by 1.81256pt on input line 487.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: img/weight_position.eps Graphic file (type eps)
@@ -373,42 +348,56 @@ File: img/weight_position.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[41]) (./06_evaluation.tex [42] [43] [44] [45]
+[42
+
+] [43] [44] [45]) (./06_evaluation.tex [46
+
+]
 第 6 章
 File: img/rec_rate.eps Graphic file (type eps)
 <img/rec_rate.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+Overfull \hbox (0.3718pt too wide) in paragraph at lines 19--21
+[]\JY1/mc/m/it/10.95 図 \OT1/ptm/m/n/10.95 6.1 \JY1/mc/m/it/10.95 に各手法ごと
+の認識率の結果を示す． それぞれの被験者の平均は ， \OT1/ptm/m/n/10.95 $V \JY1/m
+c/m/it/10.95 は \OT1/ptm/m/n/10.95 93% (SD=4.55)\JY1/mc/m/it/10.95 ，
+ []
+
+[47
+
+] [48]
 File: img/rec_speed.eps Graphic file (type eps)
-<img/rec_speed.eps> [46
-
-]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+ <img/rec_speed.eps>
 File: img/rec_speed_dtw.eps Graphic file (type eps)
-<img/rec_speed_dtw.eps>
+ <img/rec_speed_dtw.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[47]
+[49] [50]
 File: img/rec_diff.eps Graphic file (type eps)
  <img/rec_diff.eps>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 File: img/rec_sim.eps Graphic file (type eps)
-<img/rec_sim.eps>
+ <img/rec_sim.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: img/rec_min.eps Graphic file (type eps)
-<img/rec_min.eps> [48]
+<img/rec_min.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[49] [50]) (./07_application.tex [51]
+[51
+
+]
+
+LaTeX Warning: Text page 52 contains only floats.
+
+[52]) (./07_application.tex [53
+
+]
 第 7 章
 File: img/flow.eps Graphic file (type eps)
 <img/flow.eps>
@@ -420,19 +409,24 @@ File: img/application.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./08_discussion.tex [52
+) (./08_discussion.tex [54
 
-] [53] [54]
+] [55] [56]
 第 8 章
-[55
+[57
 
 ]
 File: img/different_direction.eps Graphic file (type eps)
- <img/different_direction.eps> [56]) (./09_conclusion.tex [57]
-第 9 章
-) [58
+ <img/different_direction.eps> [58]
 
-] [59
+LaTeX Warning: Citation `Kratz:2010:RSG:1719970.1720051' on page 59 undefined o
+n input line 41.
+
+) (./09_conclusion.tex [59]
+第 9 章
+) [60
+
+] [61
 
 ] (./master_thesis.bbl
 
@@ -443,7 +437,7 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 14.
 
-[60
+[62
 
 ]
 Underfull \hbox (badness 1210) in paragraph at lines 77--83
@@ -451,24 +445,21 @@ Underfull \hbox (badness 1210) in paragraph at lines 77--83
 . Peran-to-nis.  A
  []
 
-[61] [62] [63] [64] [65]) [66] (./master_thesis.aux)
+[63] [64] [65] [66] [67]) [68] (./master_thesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 1507 strings out of 493777
- 21047 string characters out of 6151334
- 83151 words of memory out of 5000000
- 4922 multiletter control sequences out of 15000+600000
+ 1516 strings out of 493777
+ 21210 string characters out of 6151334
+ 82151 words of memory out of 5000000
+ 4931 multiletter control sequences out of 15000+600000
  19911 words of font info for 68 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  32i,8n,21p,1506b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on master_thesis.dvi (73 pages, 243492 bytes).
+Output written on master_thesis.dvi (76 pages, 249720 bytes).
