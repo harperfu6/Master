@@ -65,16 +65,15 @@
 \contentsline {subsection}{\numberline {6.2.1}認識率}{47}
 \contentsline {subsection}{\numberline {6.2.2}認識速度}{49}
 \contentsline {subsection}{\numberline {6.2.3}識別性能の結果}{51}
-\contentsline {chapter}{\numberline {第7章}アプリケーション例}{54}
-\contentsline {section}{\numberline {7.1}手書きジェスチャを利用したアプリケーション開発ツールキット}{54}
-\contentsline {chapter}{\numberline {第8章}議論}{57}
-\contentsline {section}{\numberline {8.1}最適な重み付けの再定義}{57}
-\contentsline {section}{\numberline {8.2}ユーザに依存しない手書きジェスチャの精度評価}{57}
-\contentsline {section}{\numberline {8.3}書き順に依存しないアルゴリズムの導入}{58}
-\contentsline {section}{\numberline {8.4}スマートフォン以外の端末への応用}{58}
-\contentsline {section}{\numberline {8.5}空中手書きジェスチャへの応用}{59}
-\contentsline {chapter}{\numberline {第9章}結論}{60}
-\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{61}
-\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{62}
-\contentsline {chapter}{\numberline {付 録A }\$Vアルゴリズムの擬似コード}{69}
-\contentsline {chapter}{\numberline {付 録B }ユーザ調査により得られた手書きジェスチャ}{75}
+\contentsline {chapter}{\numberline {第7章}アプリケーション例}{56}
+\contentsline {section}{\numberline {7.1}手書きジェスチャを利用したアプリケーション開発ツールキット}{56}
+\contentsline {chapter}{\numberline {第8章}議論}{59}
+\contentsline {section}{\numberline {8.1}最適な重み付けの再定義}{59}
+\contentsline {section}{\numberline {8.2}ユーザに依存しない手書きジェスチャの精度評価}{59}
+\contentsline {section}{\numberline {8.3}書き順に依存しないアルゴリズムの導入}{60}
+\contentsline {section}{\numberline {8.4}スマートフォン以外の端末への応用}{60}
+\contentsline {section}{\numberline {8.5}空中手書きジェスチャへの応用}{61}
+\contentsline {chapter}{\numberline {第9章}結論}{62}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{64}
+\contentsline {chapter}{\numberline {付 録A }\$Vアルゴリズムの擬似コード}{71}
+\contentsline {chapter}{\numberline {付 録B }ユーザ調査により得られた手書きジェスチャ}{77}

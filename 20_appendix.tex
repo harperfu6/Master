@@ -228,7 +228,7 @@
 		\For{$k\gets 1, templates_\textit{length}$}
 			\State $NORMALIZE(templates_\textit{k})$
 			\State $d\gets DISTNCE\mathchar`-AT\mathchar`-BEST\mathchar`-ANGLE(gesture, templates_\textit{k})$ \Comment{Refer to \$1}
-			\If{d < b}
+			\If{$d < b$}
 				\State $b\gets d$
 				\State $bestGroup\gets group$
 			\EndIf

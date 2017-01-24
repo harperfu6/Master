@@ -39,14 +39,17 @@
 \contentsline {figure}{\numberline {6.1}{\ignorespaces 各手法における，被験者ごとの認識率の平均．\relax }}{48}
 \contentsline {figure}{\numberline {6.2}{\ignorespaces \$V，\$1，Rubineにおける，被験者ごとの認識速度の平均．\relax }}{49}
 \contentsline {figure}{\numberline {6.3}{\ignorespaces DTWにおける，被験者ごとの認識速度の平均．\relax }}{50}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces \$Vにおける，N-best Listの1番目と2番目のスコアの差の平均．\relax }}{51}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度の平均．\relax }}{52}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度の最小値の平均．\relax }}{52}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces \$Vにおける，N-best Listの1番目と2番目のスコアの差の平均．\relax }}{52}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces \$Vにおいて重み付けをしない場合における，N-best Listの1番目と2番目のスコアの差の平均．\relax }}{52}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度の平均．\relax }}{53}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces \$Vにおいて重み付けをしない場合おける，ジェスチャが正しく認識された時の類似度の平均．\relax }}{53}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度の最小値の平均．\relax }}{54}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces \$Vにおいて重み付けをしない場合おける，ジェスチャが正しく認識された時の類似度の最小値の平均．\relax }}{54}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces 手書きジェスチャを利用したアプリケーション開発ツールキット．\nobreakspace {}(a)まず，ユーザはスマートフォンなどの手書きジェスチャを入力する端末を用いて学習データを追加することによって，\nobreakspace {}(b)\$Vが実装されたツールキットが追加された学習データを自動的にジェスチャグループに分類し，ジェスチャグループごとに重みを計算する．(c)最後にユーザは，アプリケーションにおける処理と手書きジェスチャを対応付ける．\relax }}{55}
-\contentsline {figure}{\numberline {7.2}{\ignorespaces ツールキットを使って開発されたメディアプレイヤの例．\nobreakspace {}(a)アプリケーションのスクリーンショット，\nobreakspace {}(b)実際にスマートフォンを用いて入力している場面. \relax }}{56}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces 手書きジェスチャを利用したアプリケーション開発ツールキット．\nobreakspace {}(a)まず，ユーザはスマートフォンなどの手書きジェスチャを入力する端末を用いて学習データを追加することによって，\nobreakspace {}(b)\$Vが実装されたツールキットが追加された学習データを自動的にジェスチャグループに分類し，ジェスチャグループごとに重みを計算する．(c)最後にユーザは，アプリケーションにおける処理と手書きジェスチャを対応付ける．\relax }}{57}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces ツールキットを使って開発されたメディアプレイヤの例．\nobreakspace {}(a)アプリケーションのスクリーンショット，\nobreakspace {}(b)実際にスマートフォンを用いて入力している場面. \relax }}{58}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces 形状が同じであるが書き順の異なる手書きジェスチャの例．\relax }}{58}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces 形状が同じであるが書き順の異なる手書きジェスチャの例．\relax }}{60}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

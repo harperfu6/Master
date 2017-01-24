@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  9 JAN 2017 08:34
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  19 JAN 2017 15:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -161,9 +161,6 @@ LaTeX Warning: Label `fig:elicitation_example' multiply defined.
 
 LaTeX Warning: Label `fig:elicitation_example' multiply defined.
 
-
-LaTeX Warning: Label `fig:elicitation_example' multiply defined.
-
 )
 \openout1 = `master_thesis.aux'.
 
@@ -270,30 +267,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [10
 
-]
-
-Package caption Warning: \label without proper \caption on input line 41.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:elicitation_example' on page 11 undefined on inpu
-t line 55.
-
-[11]
-
-Package caption Warning: \label without proper \caption on input line 41.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:elicitation_example' on page 12 undefined on inpu
-t line 57.
-
+] [11]
 File: img/elicitation_example.eps Graphic file (type eps)
-<img/elicitation_example.eps>
-File: img/elicetated_strokes.eps Graphic file (type eps)
- <img/elicetated_strokes.eps>
+ <img/elicitation_example.eps>
+File: img/elicitated_strokes.eps Graphic file (type eps)
+ <img/elicitated_strokes.eps>
 
-LaTeX Warning: Float too large for page by 14.88138pt on input line 80.
+LaTeX Warning: Float too large for page by 25.21321pt on input line 80.
 
 ) (./04_onedollar.tex [12] [13]
 第 4 章
@@ -461,8 +441,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [49] [50]
 File: img/rec_diff.eps Graphic file (type eps)
  <img/rec_diff.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/rec_diff_10.eps Graphic file (type eps)
+<img/rec_diff_10.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: img/rec_sim.eps Graphic file (type eps)
- <img/rec_sim.eps>
+<img/rec_sim.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/rec_sim_10.eps Graphic file (type eps)
+<img/rec_sim_10.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -471,9 +464,14 @@ File: img/rec_min.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+File: img/rec_min_10.eps Graphic file (type eps)
+<img/rec_min_10.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [51
 
-] [52]) (./07_application.tex [53
+] [52] [53] [54]) (./07_application.tex [55
 
 ]
 第 7 章
@@ -487,19 +485,19 @@ File: img/application.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./08_discussion.tex [54
+) (./08_discussion.tex [56
 
-] [55] [56]
+] [57] [58]
 第 8 章
-[57
+[59
 
 ]
 File: img/different_direction.eps Graphic file (type eps)
- <img/different_direction.eps> [58]) (./09_conclusion.tex [59]
+ <img/different_direction.eps> [60]) (./09_conclusion.tex [61]
 第 9 章
-) [60
+) [62
 
-] [61
+] [63
 
 ] (./master_thesis.bbl
 
@@ -510,9 +508,9 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 14.
 
-[62
+[64
 
-] [63] [64] [65] [66] [67]) (./20_appendix.tex [68]
+] [65] [66] [67] [68] [69]) (./20_appendix.tex [70]
 付 録 A  
 
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
@@ -528,9 +526,9 @@ Overfull \hbox (29.49193pt too wide) in paragraph at lines 102--103
 ; orientationSimilarity\OT1/cmr/m/n/10.95 )$ 
  []
 
-) (./21_appendix.tex [69
+) (./21_appendix.tex [71
 
-] [70] [71] [72] [73] [74]
+] [72] [73] [74] [75] [76]
 付 録 B  
 File: img/P1.eps Graphic file (type eps)
 <img/P1.eps>
@@ -542,46 +540,43 @@ File: img/P2.eps Graphic file (type eps)
 
 LaTeX Warning: Float too large for page by 36.48341pt on input line 15.
 
-File: img/P3.eps Graphic file (type eps)
-<img/P3.eps>
+File: img/P5.eps Graphic file (type eps)
+<img/P5.eps>
 
-LaTeX Warning: Float too large for page by 36.48341pt on input line 22.
+LaTeX Warning: Float too large for page by 39.21063pt on input line 22.
 
 File: img/P4.eps Graphic file (type eps)
 <img/P4.eps>
 
 LaTeX Warning: Float too large for page by 50.17781pt on input line 29.
 
-File: img/P5.eps Graphic file (type eps)
-<img/P5.eps>
+File: img/P3.eps Graphic file (type eps)
+<img/P3.eps>
 
-LaTeX Warning: Float too large for page by 39.21063pt on input line 36.
+LaTeX Warning: Float too large for page by 36.48341pt on input line 36.
 
 File: img/P6.eps Graphic file (type eps)
 <img/P6.eps>
 
 LaTeX Warning: Float too large for page by 38.51872pt on input line 43.
 
-) [75
+) [77
 
-] [76] [77] [78] [79] [80] [81] (./master_thesis.aux)
+] [78] [79] [80] [81] [82] [83] (./master_thesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2973 strings out of 493777
- 46269 string characters out of 6151334
- 128923 words of memory out of 5000000
- 6364 multiletter control sequences out of 15000+600000
+ 2983 strings out of 493777
+ 46422 string characters out of 6151334
+ 128967 words of memory out of 5000000
+ 6371 multiletter control sequences out of 15000+600000
  20882 words of font info for 71 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  36i,8n,38p,1506b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on master_thesis.dvi (89 pages, 278768 bytes).
+Output written on master_thesis.dvi (91 pages, 286864 bytes).
