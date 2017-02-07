@@ -14,46 +14,46 @@ Warning--to sort, need author or key in SigmaLognormal
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty booktitle in Anderson2004HiddenMM
 Warning--empty author in SigmaLognormal
-You've used 61 entries,
+You've used 62 entries,
             3087 wiz_defined-function locations,
-            1097 strings with 20537 characters,
-and the built_in function-call counts, 37132 in all, are:
-= -- 3670
-> -- 1271
-< -- 96
-+ -- 477
-- -- 458
-* -- 2261
-:= -- 4943
-add.period$ -- 222
-call.type$ -- 61
-change.case$ -- 406
-chr.to.int$ -- 58
-cite$ -- 65
-duplicate$ -- 1933
-empty$ -- 2907
-format.name$ -- 687
-if$ -- 8594
+            1104 strings with 20661 characters,
+and the built_in function-call counts, 37679 in all, are:
+= -- 3720
+> -- 1283
+< -- 99
++ -- 481
+- -- 462
+* -- 2296
+:= -- 5010
+add.period$ -- 225
+call.type$ -- 62
+change.case$ -- 412
+chr.to.int$ -- 59
+cite$ -- 66
+duplicate$ -- 1965
+empty$ -- 2953
+format.name$ -- 694
+if$ -- 8724
 int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 61
-newline$ -- 307
-num.names$ -- 179
-pop$ -- 502
+missing$ -- 62
+newline$ -- 312
+num.names$ -- 181
+pop$ -- 510
 preamble$ -- 1
-purify$ -- 468
+purify$ -- 475
 quote$ -- 0
-skip$ -- 2015
+skip$ -- 2048
 stack$ -- 0
-substring$ -- 2218
-swap$ -- 593
-text.length$ -- 96
-text.prefix$ -- 12
+substring$ -- 2253
+swap$ -- 604
+text.length$ -- 99
+text.prefix$ -- 13
 top$ -- 0
-type$ -- 484
+type$ -- 492
 warning$ -- 3
-while$ -- 337
-width$ -- 69
-write$ -- 907
-is.kanji.str$ -- 767
+while$ -- 341
+width$ -- 70
+write$ -- 920
+is.kanji.str$ -- 780
 (There were 2 error messages)
