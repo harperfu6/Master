@@ -17,43 +17,43 @@ Warning--empty author in SigmaLognormal
 You've used 62 entries,
             3087 wiz_defined-function locations,
             1104 strings with 20661 characters,
-and the built_in function-call counts, 37679 in all, are:
-= -- 3720
+and the built_in function-call counts, 38016 in all, are:
+= -- 3762
 > -- 1283
-< -- 99
+< -- 100
 + -- 481
 - -- 462
-* -- 2296
-:= -- 5010
-add.period$ -- 225
+* -- 2316
+:= -- 5042
+add.period$ -- 226
 call.type$ -- 62
 change.case$ -- 412
 chr.to.int$ -- 59
 cite$ -- 66
-duplicate$ -- 1965
-empty$ -- 2953
+duplicate$ -- 1988
+empty$ -- 2981
 format.name$ -- 694
-if$ -- 8724
+if$ -- 8812
 int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 62
-newline$ -- 312
+missing$ -- 63
+newline$ -- 313
 num.names$ -- 181
-pop$ -- 510
+pop$ -- 508
 preamble$ -- 1
 purify$ -- 475
 quote$ -- 0
-skip$ -- 2048
+skip$ -- 2069
 stack$ -- 0
-substring$ -- 2253
-swap$ -- 604
-text.length$ -- 99
+substring$ -- 2309
+swap$ -- 620
+text.length$ -- 100
 text.prefix$ -- 13
 top$ -- 0
 type$ -- 492
 warning$ -- 3
-while$ -- 341
+while$ -- 344
 width$ -- 70
-write$ -- 920
-is.kanji.str$ -- 780
+write$ -- 923
+is.kanji.str$ -- 782
 (There were 2 error messages)
