@@ -117,7 +117,7 @@ Pengyu Hong, Matthew Turk, and Thomas~S. Huang.
 \bibitem[HZS{\etalchar{+}}07]{Hinckley:2007:ISS:1240624.1240666}
 Ken Hinckley, Shengdong Zhao, Raman Sarin, Patrick Baudisch, Edward Cutrell,
   Michael Shilman, and Desney Tan.
-\newblock Inkseine: {I}n {S}itu {S}earch for {A}ctive {N}ote {T}aking.
+\newblock Ink{S}eine: {I}n {S}itu {S}earch for {A}ctive {N}ote {T}aking.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '07, pp. 251--260, New York, NY, USA, 2007. ACM.
 
@@ -141,7 +141,8 @@ Sven Kratz and Michael Rohs.
 Levent~Burak Kara and Thomas~F. Stahovich.
 \newblock An {I}mage-based, {T}rainable {S}ymbol {R}ecognizer for {H}and-drawn
   {S}ketches.
-\newblock {\em Comput. Graph.}, Vol.~29, No.~4, pp. 501--517, August 2005.
+\newblock {\em Computers and Graphics}, Vol.~29, No.~4, pp. 501--517, August
+  2005.
 
 \bibitem[KZ04]{Kristensson:2004:SLV:1029632.1029640}
 Per-Ola Kristensson and Shumin Zhai.
@@ -181,7 +182,7 @@ Emilie Lundin, H{\aa}kan Kvarnstr\"{o}m, and Erland Jonsson.
 \bibitem[LL11]{Lu:2011:GAT:1978942.1978972}
 Hao L\"{u} and Yang Li.
 \newblock Gesture {A}vatar: {A} {T}echnique for {O}perating {M}obile {U}ser
-  {I}nterfaces {U}sing {G}estures.
+  {I}nterfaces using {G}estures.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '11, pp. 207--216, New York, NY, USA, 2011. ACM.
 
@@ -238,7 +239,7 @@ James~A. Pittman.
 \bibitem[PJ09]{Park:2009:SFA:1464526.1465112}
 Hae-Sang Park and Chi-Hyuck Jun.
 \newblock A {S}imple and {F}ast {A}lgorithm for {K}-medoids {C}lustering.
-\newblock {\em Expert System With Application}, Vol.~36, No.~2, pp. 3336--3341,
+\newblock {\em Expert System with Application}, Vol.~36, No.~2, pp. 3336--3341,
   March 2009.
 
 \bibitem[PS00]{Plamondon:2000:OOH:331097.331275}
@@ -384,7 +385,7 @@ Radu-Daniel Vatavu.
 Radu-Daniel Vatavu.
 \newblock User-defined {G}estures for {F}ree-hand {T}{V} {C}ontrol.
 \newblock In {\em Proceedings of the 10th European Conference on Interactive
-  {t}{v} and {v}ideo}, EuroiTV '12, pp. 45--48, New York, NY, USA, 2012. ACM.
+  {T}{V} and {v}ideo}, EuroiTV '12, pp. 45--48, New York, NY, USA, 2012. ACM.
 
 \bibitem[VAW12]{Vatavu:2012:GPC:2388676.2388732}
 Radu-Daniel Vatavu, Lisa Anthony, and Jacob~O. Wobbrock.

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  8 FEB 2017 16:24
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.4.25)  9 FEB 2017 17:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -256,9 +256,9 @@ File: img/wallpaper.eps Graphic file (type eps)
 
 <img/wallpaper.eps>
 File: img/keyinput.eps Graphic file (type eps)
- <img/keyinput.eps> [2]
+ <img/keyinput.eps>
 File: img/semantic.eps Graphic file (type eps)
- <img/semantic.eps> [3] [4]
+ <img/semantic.eps> [2] [3] [4]
 File: img/examples_V.eps Graphic file (type eps)
 
 <img/examples_V.eps> [5] [6]) (./02_relatedworks.tex [7]
@@ -331,9 +331,13 @@ File: img/gesture_group.eps Graphic file (type eps)
  <img/gesture_group.eps> [27]
 File: img/speed_reason.eps Graphic file (type eps)
  <img/speed_reason.eps>
-[28]
 File: img/cannot_recognized.eps Graphic file (type eps)
- <img/cannot_recognized.eps> [29]
+
+<img/cannot_recognized.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28] [29]
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
 (Font)              using `JT1/mc/m/n' instead on input line 139.
@@ -343,53 +347,54 @@ LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
 (Font)              using `JY1/mc/m/n' instead on input line 139.
 
 File: img/v_size.eps Graphic file (type eps)
-<img/v_size.eps>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[30]
+<img/v_size.eps> [30]
 File: img/v_orientation.eps Graphic file (type eps)
  <img/v_orientation.eps>
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 179.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 178.
 
 
 File: img/v_position.eps Graphic file (type eps)
-<img/v_position.eps>
+<img/v_position.eps> [31]
+File: img/same_gesture.eps Graphic file (type eps)
+ <img/same_gesture.eps>
+File: img/make_gesture_group.eps Graphic file (type eps)
+ <img/make_gesture_group.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[31]
-File: img/same_gesture.eps Graphic file (type eps)
- <img/same_gesture.eps> [32]
-File: img/make_gesture_group.eps Graphic file (type eps)
- <img/make_gesture_group.eps> [33]
+[32]
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 257.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 256.
 
 
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 257.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 256.
 
 
+[33]
 File: img/group_similarity.eps Graphic file (type eps)
-<img/group_similarity.eps> [34]
+ <img/group_similarity.eps> [34]
 File: img/screenshot.eps Graphic file (type eps)
- <img/screenshot.eps> [35] [36] [37]
-File: img/pre_rec.eps Graphic file (type eps)
+ <img/screenshot.eps>
 
-<img/pre_rec.eps> [38]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35] [36] [37]
+File: img/pre_rec.eps Graphic file (type eps)
+ <img/pre_rec.eps> [38]
 File: img/pre_speed.eps Graphic file (type eps)
  <img/pre_speed.eps> [39]
 File: img/pre_diff.eps Graphic file (type eps)
- <img/pre_diff.eps> [40]
-File: img/pre_sim.eps Graphic file (type eps)
 
-<img/pre_sim.eps> [41]
+<img/pre_diff.eps> [40]
+File: img/pre_sim.eps Graphic file (type eps)
+ <img/pre_sim.eps> [41]
 File: img/pre_min.eps Graphic file (type eps)
  <img/pre_min.eps> [42] [43]
 File: img/weight_method2.eps Graphic file (type eps)
- <img/weight_method2.eps>
+
+<img/weight_method2.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -407,7 +412,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: img/weight_orientation.eps Graphic file (type eps)
 <img/weight_orientation.eps>
 
-LaTeX Warning: Float too large for page by 0.2921pt on input line 497.
+LaTeX Warning: Float too large for page by 0.2921pt on input line 496.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -552,32 +557,32 @@ Overfull \hbox (29.49193pt too wide) in paragraph at lines 102--103
 File: img/P1.eps Graphic file (type eps)
 <img/P1.eps>
 
-LaTeX Warning: Float too large for page by 31.56479pt on input line 8.
+LaTeX Warning: Float too large for page by 28.05528pt on input line 8.
 
 File: img/P2.eps Graphic file (type eps)
 <img/P2.eps>
 
-LaTeX Warning: Float too large for page by 36.48341pt on input line 15.
+LaTeX Warning: Float too large for page by 32.94597pt on input line 15.
 
 File: img/P5.eps Graphic file (type eps)
 <img/P5.eps>
 
-LaTeX Warning: Float too large for page by 39.21063pt on input line 22.
+LaTeX Warning: Float too large for page by 35.11983pt on input line 22.
 
 File: img/P4.eps Graphic file (type eps)
 <img/P4.eps>
 
-LaTeX Warning: Float too large for page by 50.17781pt on input line 29.
+LaTeX Warning: Float too large for page by 33.75623pt on input line 29.
 
 File: img/P3.eps Graphic file (type eps)
 <img/P3.eps>
 
-LaTeX Warning: Float too large for page by 36.48341pt on input line 36.
+LaTeX Warning: Float too large for page by 35.68176pt on input line 36.
 
 File: img/P6.eps Graphic file (type eps)
 <img/P6.eps>
 
-LaTeX Warning: Float too large for page by 38.51872pt on input line 43.
+LaTeX Warning: Float too large for page by 34.31386pt on input line 43.
 
 ) [84
 
@@ -590,12 +595,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3005 strings out of 493777
- 46745 string characters out of 6151334
+ 3008 strings out of 493777
+ 46788 string characters out of 6151334
  129046 words of memory out of 5000000
- 6386 multiletter control sequences out of 15000+600000
+ 6389 multiletter control sequences out of 15000+600000
  20882 words of font info for 71 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 36i,8n,38p,1372b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,38p,1374b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on master_thesis.dvi (98 pages, 310780 bytes).
+Output written on master_thesis.dvi (98 pages, 311908 bytes).

@@ -1,17 +1,17 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces 手書きジェスチャの例．（A）空中にて指を用いて手書き動作する例．（B）スマートフォンに手書き動作をし，文字を入力する例．\relax }}{1}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces スマートフォンにおける壁紙を設定する例．ボタンにより遷移するUI（A）の場合，4ステップ必要であるが，文字や記号などを直接書き込むUI（B）の場合，1ステップにより設定することができる．\relax }}{2}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces スマートフォンにおける壁紙を設定する例．ボタンにより遷移するユーザインタフェース（A）の場合，4ステップ必要であるが，文字や記号などを直接書き込むユーザインタフェース（B）の場合，1ステップにより設定することができる．\relax }}{3}
 \contentsline {figure}{\numberline {1.3}{\ignorespaces キーボードにより入力する場合（A）は，操作領域が小さいため，入力に多くの時間を要したり誤って入力したりする場合がある．手書き入力の場合（B）は，操作領域が大きいため誤入力が生じづらい．また，画面を見ることなく入力可能である．\relax }}{3}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces （A）「決定」操作にチェックマークに割り当てる例．（B）「ヘルプ」操作をはてなマークに割り当てる例．\relax }}{3}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces ジェスチャの形状と書き順は同じであるが，向き (a) (b) (c)，位置 (d)，大きさ (e)が異なる，単一ストロークからなる手書きジェスチャの例．\relax }}{6}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces （A）「決定」操作にチェックマークに割り当てる例．（B）「ヘルプ」操作をはてなマークに割り当てる例．\relax }}{4}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces ジェスチャの形状と書き順は同じであるが，向き （a）（b）（c），位置（d），大きさ（e）が異なる，単一ストロークからなる手書きジェスチャの例．\relax }}{6}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces \$1において用いられる，スマートフォンやタブレット端末などのタッチパネルへの手書き入力やペン入力において一般的に良く用いられる，単一ストロークからなる手書きジェスチャの例，黒い点は手書きジェスチャの書き始めを示す．\relax }}{14}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces スマートフォンやタブレット端末などのタッチパネルへの手書き入力やペン入力において一般的に良く用いられる，単一ストロークからなる手書きジェスチャの例．黒い点は手書きジェスチャの書き始めを表す．\relax }}{14}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces ユーザ調査において，ユーザが考案した手書きジェスチャとその利用例．\relax }}{15}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces 調査において6人の被験者\nobreakspace {}(P1～P6)から得られた手書きジェスチャのうち，抜粋された手書きジェスチャ．\relax }}{17}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 調査において6人の被験者（P1～P6）から得られた手書きジェスチャのうち，抜粋された手書きジェスチャ．\relax }}{17}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces 複数の点から構成されるストローク．同じストロークでも，入力される速度によって点の数が異なる．\relax }}{19}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces リサンプリングの例．点の数が異なる同じジェスチャも，同じ点の数へとリサンプリングされる．\relax }}{20}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces リサンプリングの例．点の数が異なる同じジェスチャも，同じ数の点へとリサンプリングされる．\relax }}{20}
 \contentsline {figure}{\numberline {4.3}{\ignorespaces 向きに正規化する例．向きが異なったとしても，同じ向きになるように回転する．\relax }}{20}
 \contentsline {figure}{\numberline {4.4}{\ignorespaces 大きさに正規化する例．大きさが異なったとしても，同じ大きさになるように変形する．\relax }}{21}
 \contentsline {figure}{\numberline {4.5}{\ignorespaces 位置に正規化する例．位置が異なったとしても，同じ位置になるように移動する．\relax }}{21}
@@ -20,12 +20,12 @@
 \contentsline {figure}{\numberline {4.8}{\ignorespaces \$1が1次元の手書きジェスチャを認識できない理由．向き及び大きさに正規化することによって，ストロークを構成する各点は分散しまう．分散する前（A）及び（B）は類似しているが，正規化により分散した後（A'）及び（B'）は類似していないため，同じ手書きジェスチャとして認識されない．\relax }}{24}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5.1}{\ignorespaces 1次元の手書きジェスチャとみなされる例．\relax }}{26}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces 形状と書き順が同じ手書きジェスチャの学習データが集まった，ジェスチャグループの例．\relax }}{27}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces 同一ジェスチャグループ\nobreakspace {}(A)のみに対し，大きさ，向き，位置の類似度計算を行う．\relax }}{28}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 形状と書き順が同じ手書きジェスチャの学習データの集まりであるジェスチャグループの例．\relax }}{27}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 同一ジェスチャグループ（A）のみに対し，大きさ，向き，位置の類似度計算を行う．\relax }}{28}
 \contentsline {figure}{\numberline {5.4}{\ignorespaces 大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例．\relax }}{29}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces 大きさの定義．\relax }}{31}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 大きさの定義．\relax }}{30}
 \contentsline {figure}{\numberline {5.6}{\ignorespaces 向きの定義．\relax }}{31}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces 位置の定義．\relax }}{32}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces 位置の定義．\relax }}{31}
 \contentsline {figure}{\numberline {5.8}{\ignorespaces 同じ名前の学習データが追加された時に，それぞれの大きさ，向き，位置の特徴量を(S, $\theta $, P)，(S', $\theta $', P')とした時の，そのジェスチャの新たな特徴量の求め方．\relax }}{32}
 \contentsline {figure}{\numberline {5.9}{\ignorespaces 学習データを新たに追加する場面の例．\relax }}{33}
 \contentsline {figure}{\numberline {5.10}{\ignorespaces ジェスチャグループの学習データ間の類似度を求める方法，この場合，\nobreakspace {}(大きさ，向き，位置) =\nobreakspace {}(0.8, 0.1, 0.4)となる．\relax }}{34}
@@ -51,10 +51,10 @@
 \contentsline {figure}{\numberline {6.8}{\ignorespaces \$Vにおける，ジェスチャが正しく認識された時の類似度の最小値の平均．\relax }}{58}
 \contentsline {figure}{\numberline {6.9}{\ignorespaces \$Vにおいて重み付けをしない場合おける，ジェスチャが正しく認識された時の類似度の最小値の平均．\relax }}{58}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces ツールキットを使って開発されたメディアプレイヤの例．\nobreakspace {}(a)アプリケーションのスクリーンショット，\nobreakspace {}(b)PC上のメディアプレイヤをスマートフォンを用いて操作している場面.\relax }}{61}
-\contentsline {figure}{\numberline {7.2}{\ignorespaces 手書きジェスチャを利用したアプリケーション開発ツールキット．\nobreakspace {}(a)まず，ユーザはスマートフォンなどの手書きジェスチャを入力する端末を用いて学習データを追加することによって，\nobreakspace {}(b)\$Vが実装されたツールキットが追加された学習データを自動的にジェスチャグループに分類し，ジェスチャグループごとに重みを計算する．(c)最後にユーザは，アプリケーションにおける処理と手書きジェスチャを対応付ける．\relax }}{62}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces ツールキットを使って開発されたメディアプレイヤの例．（a）アプリケーションのスクリーンショット，（b）PC上のメディアプレイヤをスマートフォンを用いて操作している場面.\relax }}{61}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces 手書きジェスチャを利用したアプリケーション開発ツールキット．（a）まず，ユーザはスマートフォンなどの手書きジェスチャを入力する端末を用いて学習データを追加することによって，（b）\$Vが実装されたツールキットが，学習データを自動的にジェスチャグループに分類し，重みを計算する．（c）最後にユーザは，アプリケーションにおける処理と手書きジェスチャを対応付ける．\relax }}{62}
 \contentsline {figure}{\numberline {7.3}{\ignorespaces ブラウザにおいて，手書きジェスチャによりページの表示位置を指定している例．（a）同じ書き順及び同じ形状であるが，位置の違いをページの表示位置に割り当てる．（b）画面の上部に入力した場合ページ上部が，画面の中部に入力した場合ページ中部が，画面の下部に入力した場合ページ下部が表示される．\relax }}{63}
-\contentsline {figure}{\numberline {7.4}{\ignorespaces ブラウザにおいて，手書きジェスチャによりブックマークの登録先をを指定している例．（a）同じ書き順及び同じ形状であるが，位置の違いをブックマークの登録先に割り当てている．（b）webページ上にて，登録したいブックマークの種類に応じて，適当な位置に手書きジェスチャを入力すると，（c）ブックマークにそのwebページが登録される．\relax }}{64}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces ブラウザにおいて，手書きジェスチャによりブックマークの登録先を指定している例．（a）同じ書き順及び同じ形状であるが，位置の違いをブックマークの登録先に割り当てている．（b）webページ上にて，登録したいブックマークの種類に応じて，適当な位置に手書きジェスチャを入力すると，（c）ブックマークにそのwebページが登録される．\relax }}{64}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {8.1}{\ignorespaces 形状が同じであるが書き順の異なる手書きジェスチャの例．\relax }}{67}
 \addvspace {10\p@ }

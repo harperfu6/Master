@@ -57,7 +57,7 @@
 
 \begin{figure} [h!]
 	\begin{center}
-		\includegraphics [width=0.7\hsize ]{img/gesture_group.eps}
+		\includegraphics [width=0.55\hsize ]{img/gesture_group.eps}
 	\end{center}
 	\caption{形状と書き順が同じ手書きジェスチャの学習データの集まりであるジェスチャグループの例．}
 	\label{fig:gesture_group}
@@ -78,7 +78,7 @@
 
 \begin{figure} [h!]
 	\begin{center}
-		\includegraphics [width=0.6\hsize ]{img/speed_reason.eps}
+		\includegraphics [width=0.55\hsize ]{img/speed_reason.eps}
 	\end{center}
 	\caption{同一ジェスチャグループ（A）のみに対し，大きさ，向き，位置の類似度計算を行う．}
 	\label{fig:speed_reason}
@@ -100,7 +100,7 @@
 
 \begin{figure} [h!]
 	\begin{center}
-		\includegraphics [width=0.8\hsize ]{img/cannot_recognized.eps}
+		\includegraphics [width=0.75\hsize ]{img/cannot_recognized.eps}
 	\end{center}
 	\caption{大きさ，向き，位置を特徴量として認識のために用いた場合に，入力データと学習データが一致しない例．}
 	\label{fig:cannot_recognized}
@@ -140,7 +140,7 @@
 
 \begin{figure} [h!]
 	\begin{center}
-		\includegraphics [width=0.45\hsize ]{img/v_size.eps}
+		\includegraphics [width=0.4\hsize ]{img/v_size.eps}
 	\end{center}
 	\caption{大きさの定義．}
 	\label{fig:v_size}
@@ -162,7 +162,7 @@ S_\textit{s} = \left \{
 
 \begin{figure} [h!]
 	\begin{center}
-		\includegraphics [width=0.6\hsize ]{img/v_orientation.eps}
+		\includegraphics [width=0.55\hsize ]{img/v_orientation.eps}
 	\end{center}
 	\caption{向きの定義．}
 	\label{fig:v_orientation}
@@ -173,14 +173,13 @@ S_\textit{o} = 1 - \frac{|\theta - \sigma|}{\pi}
 \end{equation}
 ここで，$\theta$はデータ1の向き，$\sigma$はデータ2の向きである．
 
-
 \subsubsection{位置}
 ジェスチャを構成するストロークのすべての点の中心座標をジェスチャの位置として定義する（図\ref{fig:v_position}）．
 そして，2つのジェスチャの類似度$S{\scriptsize p}$を式5.3によって定義する．
 
 \begin{figure} [h!]
 	\begin{center}
-		\includegraphics [width=0.6\hsize ]{img/v_position.eps}
+		\includegraphics [width=0.55\hsize ]{img/v_position.eps}
 	\end{center}
 	\caption{位置の定義．}
 	\label{fig:v_position}
